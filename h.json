@@ -23,7 +23,7 @@
 "filterable":1,
 "quickSearch":1,
 "searchable":1,
-"ext":"http://api.zhixiao.me:65508/zs/cn/nk.json"
+"ext":"https://ghproxy.com/https://raw.githubusercontent.com/ahuiabc2003/hui/main/nk.json"
 },
 
 {
@@ -35,7 +35,7 @@
 "filterable":1,
 "quickSearch":1,
 "searchable":1,
-"ext":"http://api.zhixiao.me:65508/zs/cn/dd.json"
+"ext":"https://ghproxy.com/https://raw.githubusercontent.com/ahuiabc2003/hui/main/dd.json"
 },
 
     {
@@ -47,7 +47,7 @@
       "filterable":1,
 	  "quickSearch":1,
 	  "searchable":1,
-      "ext": "http://api.zhixiao.me:65508/zs/cn/huihe.json"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/ahuiabc2003/hui/main/huihe.json"
     }
 
   ],
