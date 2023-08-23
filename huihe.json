@@ -1,0 +1,50 @@
+{
+  "站名": "绘盒",
+  "主页url": "http://api.zhixiao.me:65508/",
+  
+  "数组": "列表数组&&结束列表数组",
+  "图片": "src=\"&&\"",
+  "标题": "title=\"&&\"",
+  "副标题": "--",
+  "链接": "href=\"&&\"",
+
+  "搜索模式": "1",
+  "搜索url":"http://api.zhixiao.me:65508/index.php/so.html?wd={wd}",
+  "搜索数组": "列表数组&&结束列表数组",
+  "搜索标题": "title=\"&&\"",
+  "搜索副标题": "",
+  "搜索链接": "href=\"&&\"",
+
+  "影片状态": "状态：&&结束状态",
+  "导演": "导演：&&结束导演",
+  "主演": "主演：&&结束演员",
+  "简介": "剧情：&&结束剧情",
+  "影片地区": "状态：&&结束状态",
+  "线路数组": "down-title&&</div>",
+  "线路标题": "h2>&&-在线播放</h2><span>",
+
+  "播放数组": "video_list fn-clear\">&&</div>",
+  "播放标题": ">&&</a>",
+  "分类url": "http://api.zhixiao.me:65508/index.php/filter/{cateId}--------{catePg}---.html",
+  "分类": "电影$movie#电视剧$tv#综艺$variety#动漫$cartoon#纪录片$documentary",
+  "筛选":{
+    "movie":[
+    {"key":"cateId","name":"电影类型","value":[
+    {"n":"全部","v":"movie"},
+    {"n":"动作片","v":"dongzuopian"},
+    {"n":"喜剧片","v":"xijupian"}
+    ]
+    }
+    ],
+    "tv":[
+    {"key":"cateId","name":"电视剧类型","value":[
+    {"n":"全部","v":"tv"},
+    {"n":"国产剧","v":"guochanju"},
+    {"n":"欧美剧","v":"oumeiju"},
+    {"n":"韩国剧","v":"hanguoju"}
+    ]
+    }
+    ]
+
+    }
+}
