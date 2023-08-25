@@ -15,15 +15,15 @@
     },
 
 {
-"key":"AucFox",
+"key":"达达",
 "name":"02绘盒资源",
 "type":3,
 "api":"csp_XBPQ",
-
+"playerType":1,
 "filterable":1,
 "quickSearch":1,
 "searchable":1,
-"ext":"https://ghproxy.com/https://raw.githubusercontent.com/ahuiabc2003/hui/main/AucFox.json"
+"ext":"https://ghproxy.com/https://raw.githubusercontent.com/ahuiabc2003/hui/main/dd.json"
 },
 
 {
@@ -39,28 +39,16 @@
 },
 
 {
-"key":"达达",
+"key":"七味",
 "name":"04绘盒资源",
 "type":3,
 "api":"csp_XBPQ",
-"playerType":1,
+
 "filterable":1,
 "quickSearch":1,
 "searchable":1,
-"ext":"https://ghproxy.com/https://raw.githubusercontent.com/ahuiabc2003/hui/main/dd.json"
-},
-
-    {
-      "key": "绘盒",
-      "name": "05绘盒资源",
-      "type": 3,
-      "api": "csp_XBPQ",
-	  "playerType":2,
-      "filterable":1,
-	  "quickSearch":1,
-	  "searchable":1,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/ahuiabc2003/hui/main/huihe.json"
-    }
+"ext":"https://ghproxy.com/https://raw.githubusercontent.com/ahuiabc2003/hui/main/7w.json"
+}
 
   ],
 
