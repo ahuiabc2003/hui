@@ -17,7 +17,7 @@ var rule={
         'User-Agent': 'MOBILE_UA',
         'Cookie': 'esc_search_captcha=1'
     },
-    class_name:'全部&最新电影&国产剧&高分影视&热映中&站长推荐&电影&电视剧&动画&日剧&韩剧&美剧&海外剧&俄罗斯电影&加拿大电影&华语电影&印度电影&日本电影&欧美电影&法国电影&英国电影&韩国电影&纪录片&电影Top250',
+    class_name:'全部&最新电影&国产剧&高分影视&热映中&站长推荐&电影&电视剧&动画&日剧&韩剧&美剧&海外剧&俄罗斯电影&加拿大电影&华语电影&印度电影&日本电影&欧美电影&法国电影&英国电影&韩国电影&纪录片&高分经典',
     class_url:'movie_bt&zuixindianying&/movie_bt_series/guochanju&gaofenyingshi&reyingzhong&/movie_bt_series/zhanchangtuijian&/movie_bt_series/dyy&/movie_bt_series/dianshiju&/movie_bt_series/dohua&/movie_bt_series/rj&/movie_bt_series/hj&/movie_bt_series/mj&/movie_bt_series/hwj&/movie_bt_series/eluosidianying&/movie_bt_series/jianadadianying&/movie_bt_series/huayudianying&/movie_bt_series/yindudianying&/movie_bt_series/ribendianying&/movie_bt_series/meiguodianying&/movie_bt_series/faguodianying&/movie_bt_series/yingguodianying&/movie_bt_series/hanguodianying&movie_bt//movie_bt_tags/jlpp&dbtop250',
 	play_parse:true,
 
