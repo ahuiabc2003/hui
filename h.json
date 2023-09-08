@@ -27,20 +27,8 @@
 },
 
 {
-"key":"耐看",
-"name":"三号阿辉资源",
-"type":3,
-"api":"csp_XBPQ",
-
-"filterable":1,
-"quickSearch":1,
-"searchable":1,
-"ext":"https://fongmi.cachefly.net/ahuiabc2003/hui/main/nk.json"
-},
-
-{
 "key":"七味",
-"name":"四号阿辉资源",
+"name":"三号阿辉资源",
 "type":3,
 "api":"csp_XBPQ",
 
