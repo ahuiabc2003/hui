@@ -1,6 +1,6 @@
 {
   "spider": "https://fongmi.cachefly.net/ahuiabc2003/hui/main/hui.jar;md5;6811778873C4CEAEEE0B6B14F5939F94",
-  "wallpaper": "https://mpimg.cn/view.php/6370cf8f6c2d84fd14594a39cd6395f2.png",
+
   "sites": [
     {
       "key": "厂长资源",
@@ -26,9 +26,21 @@
 "ext":"https://fongmi.cachefly.net/ahuiabc2003/hui/main/dd.json"
 },
 
+    {
+      "key": "dr_荐片",
+      "name": "三号阿辉资源",
+      "type": 3,
+      "api": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/drpy2.min.js",
+      "playerType": "1",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/荐片.js"
+    },
+
 {
 "key":"七味",
-"name":"三号阿辉资源",
+"name":"四号阿辉资源",
 "type":3,
 "api":"csp_XBPQ",
 
