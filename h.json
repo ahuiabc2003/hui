@@ -1,6 +1,14 @@
 {
   "spider": "https://fongmi.cachefly.net/ahuiabc2003/hui/main/hui.jar;md5;6811778873C4CEAEEE0B6B14F5939F94",
-
+  "lives": [
+    {
+      "name": "live",
+      "type": 0,
+      "url": "https://fongmi.cachefly.net/ahuiabc2003/hui/main/tvzb.txt",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    }
+  ],
   "sites": [
     {
       "key": "厂长资源",
