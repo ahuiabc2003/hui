@@ -169,10 +169,11 @@ CHC动作电影,http://111.20.40.170/PLTV/88888893/224/3221226465/index.m3u8
 翡翠台,http://113.117.74.20:8081/hls/25/index.m3u8
 明珠台,http://r.jdshipin.com/ZQ4kN
 香港32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/streamPlaylist.m3u8
+澳门莲花,http://107.151.203.111:2209/135/hk.php?id=amlh
 澳门莲花,https://cntv.sbs/tv/lhws.php
 澳门莲花,https://p.ggiptv.com/v/macaulotustv.php
 澳门莲花,http://anren.live/HK/BiIOU11uLA.m3u8
-澳门莲花,http://107.151.203.111:2209/135/hk.php?id=amlh
+
 
 
 
