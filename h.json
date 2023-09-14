@@ -1,10 +1,10 @@
 {
-  "spider": "https://fongmi.cachefly.net/ahuiabc2003/hui/main/hui.jar;md5;6811778873C4CEAEEE0B6B14F5939F94",
+  "spider": "https://ghproxy.com/https://raw.githubusercontent.com/ahuiabc2003/hui/main/hui.jar;md5;6811778873C4CEAEEE0B6B14F5939F94",
   "lives": [
     {
       "name": "live",
       "type": 0,
-      "url": "https://fongmi.cachefly.net/ahuiabc2003/hui/main/tvzb.txt",
+      "url": "https://ghproxy.com/https://raw.githubusercontent.com/ahuiabc2003/hui/main/tvzb.txt",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     }
@@ -19,7 +19,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 1,
-      "ext": "https://fongmi.cachefly.net/ahuiabc2003/hui/main/cc.js"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/ahuiabc2003/hui/main/cc.js"
     },
 
 {
@@ -31,7 +31,7 @@
 "filterable":1,
 "quickSearch":1,
 "searchable":1,
-"ext":"https://fongmi.cachefly.net/ahuiabc2003/hui/main/dd.json"
+"ext":"https://ghproxy.com/https://raw.githubusercontent.com/ahuiabc2003/hui/main/dd.json"
 },
 
     {
@@ -55,7 +55,7 @@
 "filterable":1,
 "quickSearch":1,
 "searchable":1,
-"ext":"https://fongmi.cachefly.net/ahuiabc2003/hui/main/7w.json"
+"ext":"https://ghproxy.com/https://raw.githubusercontent.com/ahuiabc2003/hui/main/7w.json"
 }
 
   ],
