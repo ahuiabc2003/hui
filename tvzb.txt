@@ -1,6 +1,5 @@
 
 央视,#genre#
-CCTV1,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/88888888/224/3221226638/1.m3u8
 CCTV1,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/88888888/224/3221226667/1.m3u8
 CCTV1,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/88888888/224/3221226736/1.m3u8
 CCTV1,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/88888888/224/3221226737/1.m3u8
@@ -38,8 +37,7 @@ CCTV9,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226651/1.m3
 CCTV10,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226708/1.m3u8
 CCTV13,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226717/1.m3u8
 
-CCTV1,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226231/1.m3u8
-CCTV2,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226195/1.m3u8
+
 CCTV3,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226397/1.m3u8
 CCTV4,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226191/1.m3u8
 CCTV5,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226395/1.m3u8
