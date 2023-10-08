@@ -12,7 +12,7 @@
   "sites": [
     {
       "key": "厂长资源",
-      "name": "阿辉视频资源",
+      "name": "一号阿辉视频资源",
       "type": 3,
       "api": "https://agit.ai/alanchaotang/dr_py/raw/branch/main/libs/drpy2.min.js",
       "searchable": 1,
@@ -23,15 +23,15 @@
     },
 
 {
-"key":"达达",
-"name":"二号阿辉资源",
+"key":"剧哥哥",
+"name":"二号阿辉视频资源",
 "type":3,
 "api":"csp_XBPQ",
 "playerType":1,
 "filterable":1,
 "quickSearch":1,
 "searchable":1,
-"ext":"https://ghproxy.com/https://raw.githubusercontent.com/ahuiabc2003/hui/main/dd.json"
+"ext":"https://ghproxy.com/https://raw.githubusercontent.com/ahuiabc2003/hui/main/jgg.json"
 },
 
     {
