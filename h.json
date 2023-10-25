@@ -1,5 +1,5 @@
 {
-  "spider": "https://ghproxy.com/https://raw.githubusercontent.com/ahuiabc2003/hui/main/hui.jar;md5;6811778873C4CEAEEE0B6B14F5939F94",
+  "spider": "./hui.jar;md5;6811778873C4CEAEEE0B6B14F5939F94",
   "lives": [
     {
       "name": "live",
