@@ -4,7 +4,7 @@
     {
       "name": "live",
       "type": 0,
-      "url": "https://ghproxy.com/https://raw.githubusercontent.com/ahuiabc2003/hui/main/tvzb.txt",
+      "url": "./tvzb.txt",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     }
@@ -19,7 +19,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 1,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/ahuiabc2003/hui/main/cc.js"
+      "ext": "./cc.js"
     },
 
 
@@ -32,7 +32,7 @@
 "filterable":1,
 "quickSearch":1,
 "searchable":1,
-"ext":"https://ghproxy.com/https://raw.githubusercontent.com/ahuiabc2003/hui/main/jgg.json"
+"ext":"./jgg.json"
 },
 
     {
@@ -56,7 +56,7 @@
 "filterable":1,
 "quickSearch":1,
 "searchable":1,
-"ext":"https://ghproxy.com/https://raw.githubusercontent.com/ahuiabc2003/hui/main/7w.json"
+"ext":"./7w.json"
 }
 
   ],
