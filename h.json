@@ -1,16 +1,26 @@
 {
-  "spider": "https://gh.api.99988866.xyz/https://raw.githubusercontent.com/ahuiabc2003/hui/main/hui.jar;md5;6811778873C4CEAEEE0B6B14F5939F94",
+  "spider": "https://ghproxy.com/https://raw.githubusercontent.com/ahuiabc2003/hui/main/hui.jar;md5;6811778873C4CEAEEE0B6B14F5939F94",
   "lives": [
     {
       "name": "live",
       "type": 0,
-      "url": "https://gh.api.99988866.xyz/https://raw.githubusercontent.com/ahuiabc2003/hui/main/tvzb.txt",
+      "url": "https://ghproxy.com/https://raw.githubusercontent.com/ahuiabc2003/hui/main/tvzb.txt",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     }
   ],
   "sites": [
-
+    {
+      "key": "厂长资源",
+      "name": "一号阿辉视频资源",
+      "type": 3,
+      "api": "https://agit.ai/alanchaotang/dr_py/raw/branch/main/libs/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/ahuiabc2003/hui/main/cc.js"
+    },
 
 
 {
@@ -22,7 +32,7 @@
 "filterable":1,
 "quickSearch":1,
 "searchable":1,
-"ext":"https://gh.api.99988866.xyz/https://raw.githubusercontent.com/ahuiabc2003/hui/main/jgg.json"
+"ext":"https://ghproxy.com/https://raw.githubusercontent.com/ahuiabc2003/hui/main/jgg.json"
 },
 
     {
@@ -46,7 +56,7 @@
 "filterable":1,
 "quickSearch":1,
 "searchable":1,
-"ext":"https://gh.api.99988866.xyz/https://raw.githubusercontent.com/ahuiabc2003/hui/main/7w.json"
+"ext":"https://ghproxy.com/https://raw.githubusercontent.com/ahuiabc2003/hui/main/7w.json"
 }
 
   ],
