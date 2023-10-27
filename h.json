@@ -10,17 +10,9 @@
     }
   ],
   "sites": [
-    {
-      "key": "drpy_js_360影视",
-      "name": "一号阿辉视频资源",
-      "type": 3,
-      "api": "https://agit.ai/alanchaotang/dr_py/raw/branch/main/libs/drpy2.min.js",
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/ahuiabc2003/hui/main/360.js"
-    },
-
-{
+  {
 "key":"剧哥哥",
-"name":"二号阿辉视频资源",
+"name":"一号阿辉视频资源",
 "type":3,
 "api":"csp_XBPQ",
 "playerType":1,
@@ -29,6 +21,15 @@
 "searchable":1,
 "ext":"https://ghproxy.com/https://raw.githubusercontent.com/ahuiabc2003/hui/main/jgg.json"
 },
+
+    {
+      "key": "drpy_js_360影视",
+      "name": "二号阿辉视频资源",
+      "type": 3,
+      "api": "https://agit.ai/alanchaotang/dr_py/raw/branch/main/libs/drpy2.min.js",
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/ahuiabc2003/hui/main/360.js"
+    },
+
 
     {
       "key": "dr_荐片",
