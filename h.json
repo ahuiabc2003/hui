@@ -10,7 +10,13 @@
     }
   ],
   "sites": [
-
+    {
+      "key": "drpy_js_360影视",
+      "name": "一号阿辉视频资源",
+      "type": 3,
+      "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/360影视.js"
+    },
 
 {
 "key":"剧哥哥",
