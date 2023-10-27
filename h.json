@@ -59,12 +59,6 @@
     },
 
     {
-      "name": "主解析",
-      "type": 1,
-      "url": "http://27.124.4.42:4567/jhjson/ceshi.php?url="
-    },
-
-    {
       "name": "1号解析",
       "type": 0,
       "url": "https://vip.lianfaka.com/vip/?url=",
@@ -213,35 +207,7 @@
         ]
       }
     },
-    {
-      "name": "17号解析",
-      "type": 0,
-      "url": "https://jx.zhanlangbu.com/?url=",
-      "ext": {
-        "header": {
-          "User-Agent": "okhttp/4.1.0"
-        },
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "mgtv",
-          "芒果",
-          "letv",
-          "乐视",
-          "pptv",
-          "PPTV",
-          "sohu",
-          "bilibili",
-          "哔哩哔哩",
-          "哔哩"
-        ]
-      }
-    },
+
     {
       "name": "18号解析",
       "type": 0,
