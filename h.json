@@ -21,19 +21,9 @@
 "searchable":1,
 "ext":"https://ghproxy.com/https://raw.githubusercontent.com/ahuiabc2003/hui/main/jgg.json"
 },
-
-    {
-      "key": "drpy_js_360影视",
-      "name": "二号阿辉视频资源",
-      "type": 3,
-      "api": "https://agit.ai/alanchaotang/dr_py/raw/branch/main/libs/drpy2.min.js",
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/ahuiabc2003/hui/main/360.js"
-    },
-
-
     {
       "key": "dr_荐片",
-      "name": "三号阿辉资源",
+      "name": "二号阿辉资源",
       "type": 3,
       "api": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/drpy2.min.js",
       "playerType": "1",
@@ -45,7 +35,7 @@
 
 {
 "key":"七味",
-"name":"四号阿辉资源",
+"name":"三号阿辉资源",
 "type":3,
 "api":"csp_XBPQ",
 
@@ -53,7 +43,50 @@
 "quickSearch":1,
 "searchable":1,
 "ext":"https://ghproxy.com/https://raw.githubusercontent.com/ahuiabc2003/hui/main/7w.json"
-}
+},
+    {
+      "key": "js_企鹅",
+      "name": "四号腾讯资源",
+      "type": 3,
+      "api": "https://agit.ai/leevi/duo/raw/branch/master/js/drpymin2.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://agit.ai/leevi/duo/raw/branch/master/js/qtv.js"
+    },
+    {
+      "key": "js_奇异",
+      "name": "五号爱奇异资源",
+      "type": 3,
+      "api": "https://agit.ai/leevi/duo/raw/branch/master/js/drpymin2.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://agit.ai/leevi/duo/raw/branch/master/js/qzys.js"
+    },
+    {
+      "key": "js_优酷",
+      "name": "六号优酷资源",
+      "type": 3,
+      "api": "https://agit.ai/leevi/duo/raw/branch/master/js/drpymin2.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://agit.ai/leevi/duo/raw/branch/master/js/youku.js"
+    },
+    {
+      "key": "js_芒果",
+      "name": "七号芒果资源",
+      "type": 3,
+      "api": "https://agit.ai/leevi/duo/raw/branch/master/js/drpymin2.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://agit.ai/leevi/duo/raw/branch/master/js/baimang.js"
+    }
+
+
+
 
   ],
 
