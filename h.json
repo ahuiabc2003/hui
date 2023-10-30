@@ -110,12 +110,6 @@
       "url": "Web"
     },
 
-   {
-	"name": "Json聚合",
-	"type": 3,
-	"url": "Demo"
-	},
-
     {
       "name": "1号解析",
       "type": 0,
