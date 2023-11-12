@@ -1,5 +1,5 @@
 {
-  "spider": "./hui.jar;md5;6811778873C4CEAEEE0B6B14F5939F94",
+  "spider": "./xc06.jar;md5;0443870D9A930376628E29CBECC17041",
   "lives": [
     {
       "name": "live",
@@ -15,7 +15,7 @@
       "key": "厂长资源",
       "name": "一号阿辉视频资源",
       "type": 3,
-      "api": "https://agit.ai/alanchaotang/dr_py/raw/branch/main/libs/drpy2.min.js",
+      "api": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -36,17 +36,7 @@
 "ext":"./jgg.json"
 },
 
-{
-      "key": "dr_荐片",
-      "name": "三号阿辉资源",
-      "type": 3,
-      "api": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/drpy2.min.js",
-      "playerType": "1",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/荐片.js"
-    },
+{"key":"荐片","name":"三号阿辉资源","type":3,"api":"https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/drpy2.min.js","ext":"./jianpian.js"},
 
 {
 "key":"七味",
@@ -59,46 +49,16 @@
 "searchable":1,
 "ext":"./7w.json"
 },
-    {
-      "key": "js_企鹅",
-      "name": "五号腾讯资源",
+
+  {
+      "key": "搜狗2",
+      "name": "五号搜狗资源",
       "type": 3,
-      "api": "https://agit.ai/leevi/duo/raw/branch/master/js/drpymin2.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://agit.ai/leevi/duo/raw/branch/master/js/qtv.js"
-    },
-    {
-      "key": "js_奇异",
-      "name": "六号爱奇异资源",
-      "type": 3,
-      "api": "https://agit.ai/leevi/duo/raw/branch/master/js/drpymin2.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://agit.ai/leevi/duo/raw/branch/master/js/qzys.js"
-    },
-    {
-      "key": "js_优酷",
-      "name": "七号优酷资源",
-      "type": 3,
-      "api": "https://agit.ai/leevi/duo/raw/branch/master/js/drpymin2.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://agit.ai/leevi/duo/raw/branch/master/js/youku.js"
-    },
-    {
-      "key": "js_芒果",
-      "name": "八号芒果资源",
-      "type": 3,
-      "api": "https://agit.ai/leevi/duo/raw/branch/master/js/drpymin2.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://agit.ai/leevi/duo/raw/branch/master/js/baimang.js"
+      "jar": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/jar/fan.jar",
+      "api": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/drpy2.min.js",
+      "ext": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/sougou.js"
     }
+
 
 
   ],
