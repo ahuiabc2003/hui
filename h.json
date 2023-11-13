@@ -10,7 +10,6 @@
     }
   ],
   "sites": [
-
     {
       "key": "厂长资源",
       "name": "一号阿辉视频资源",
@@ -22,7 +21,6 @@
       "changeable": 1,
       "ext": "./cc.js"
     },
-
 
   {
 "key":"剧哥哥",
@@ -36,30 +34,34 @@
 "ext":"./jgg.json"
 },
 
-{"key":"荐片","name":"三号阿辉资源","type":3,"api":"https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/drpy2.min.js","ext":"./jianpian.js"},
+{
+"key":"csp_YQKan",
+"name":"三号阿辉资源",
+"type":3,
+"api":"csp_YQKan",
+"searchable":1,
+"quickSearch":1,
+"filterable":1
+},
+
+{
+"key":"荐片",
+"name":"四号阿辉资源",
+"type":3,
+"api":"https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/drpy2.min.js",
+"ext":"./jianpian.js"
+},
 
 {
 "key":"七味",
-"name":"四号阿辉资源",
+"name":"五号阿辉资源",
 "type":3,
 "api":"csp_XBPQ",
-
 "filterable":1,
 "quickSearch":1,
 "searchable":1,
 "ext":"./7w.json"
-},
-
-  {
-      "key": "搜狗2",
-      "name": "五号搜狗资源",
-      "type": 3,
-      "jar": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/jar/fan.jar",
-      "api": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/drpy2.min.js",
-      "ext": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/sougou.js"
-    }
-
-
+}
 
   ],
 
