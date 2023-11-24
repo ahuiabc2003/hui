@@ -44,13 +44,17 @@
 "filterable":1
 },
 
-{
-"key":"荐片",
-"name":"四号阿辉资源",
-"type":3,
-"api":"https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/drpy2.min.js",
-"ext":"./jianpian.js"
-},
+    {
+      "key": "js_荐片",
+      "name": "四号阿辉资源",
+      "type": 3,
+      "api": "https://jihulab.com/iduoduo/xduo/-/raw/main/libs/drpy2.min.js",
+      "ext": "./jianpian.js",
+	  "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
 
 {
 "key":"七味",
