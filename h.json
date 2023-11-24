@@ -1,5 +1,5 @@
 {
-  "spider": "./xc06.jar;md5;0443870D9A930376628E29CBECC17041",
+  "spider": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;29978B04B8AEAEDE94F91B23B35E3405",
   "lives": [
     {
       "name": "live",
@@ -44,17 +44,17 @@
 "filterable":1
 },
 
-    {
-      "key": "js_荐片",
-      "name": "四号阿辉资源",
-      "type": 3,
-      "api": "https://jihulab.com/iduoduo/xduo/-/raw/main/libs/drpy2.min.js",
-      "ext": "./jianpian.js",
-	  "playerType": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
+{
+"key":"js_荐片",
+"name":"四号阿辉资源",
+"type":3,
+"api":"https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/drpy2.min.js",
+"ext":"./jianpian.js",
+"playerType": 1,
+"searchable": 1,
+"quickSearch": 1,
+"filterable": 1
+},
 
 {
 "key":"七味",
