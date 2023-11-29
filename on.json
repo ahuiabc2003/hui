@@ -1,0 +1,17 @@
+ {
+        "导演":"导演：&&</div>",
+        "主演":"主演：&&</div>",
+        "简介": "剧情：&&收起",
+        "数组": "module-item-pic&&loading",
+        "标题":"title=\"&&\"",
+		"图片":"data-src=\"&&\"",
+        "链接":"href=\"&&\"",
+        "线路数组": "data-dropdown-value&&<small>[替换:蜗牛>>ON高清线路]",
+        "线路标题": "<span>&&</span>",
+		"播放数组":"scroll-box-y&&</div>",
+		"播放列表":"<a&&</a>",
+        "播放标题":"<span>&&</span>",
+        "播放链接": "href=\"&&\"",
+        "分类": "电影$1#日韩剧$21#海外剧$2#动漫$20#短剧$23",
+        "分类url": "https://v.wuxivlog.cn/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html"
+      }
