@@ -102,19 +102,21 @@
     {
       "name": "1号解析",
       "type": 0,
-      "url": "https://jx.xmflv.com/?url="
+      "url": "https://jx.jsonplayer.com/player/?url="
     },
 
     {
       "name": "2号解析",
       "type": 0,
-      "url": "https://jx.777jiexi.com/player/?url="
+      "url": "https://jx.xmflv.com/?url="
     },
+
     {
       "name": "3号解析",
       "type": 0,
-      "url": "https://vip.lianfaka.com/vip/?url="
+      "url": "https://jx.777jiexi.com/player/?url="
     },
+
     {
       "name": "4号解析",
       "type": 0,
@@ -136,18 +138,11 @@
     {
       "name": "7号解析",
       "type": 0,
-      "url": "https://jx.jsonplayer.com/player/?url="
-    },
-
-
-    {
-      "name": "8号解析",
-      "type": 0,
       "url": "https://www.yemu.xyz/?url="
     },
 
     {
-      "name": "9号解析",
+      "name": "8号解析",
       "type": 0,
       "url": "https://jx.xmflv.cc/?url="
     }
