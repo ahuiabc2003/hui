@@ -5,13 +5,13 @@
       "name": "live",
       "type": 0,
       "url": "./tvzb.txt",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     }
   ],
   "sites": [
     {
-      "key": "厂长资源",
+      "key": "cc",
       "name": "一号阿辉视频资源",
       "type": 3,
       "api": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/drpy2.min.js",
@@ -23,8 +23,8 @@
     },
 
     {
-      "key": "蜗牛",
-      "name": "二号阿辉视频资源",
+      "key": "ON",
+      "name": "二号阿辉视频资源o",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -35,19 +35,19 @@
     },
 
     {
-      "key": "农民",
-      "name": "三号阿辉资源",
+      "key": "csp_Nmys",
+      "name": "三号阿辉资源nm",
       "type": 3,
-      "api": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/drpy2.min.js",
-      "searchable": 1,
+      "api": "csp_Nmys",
+	  "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./nm.js"
+      "changeable": 1,
+      "ext": "./nmys.json"
     },
 
   {
-"key":"剧哥哥",
-"name":"四号阿辉资源",
+"key":"jgg",
+"name":"四号阿辉资源gg",
 "type":3,
 "api":"csp_XBPQ",
 "playerType":1,
@@ -59,7 +59,7 @@
 
 {
 "key":"csp_YQKan",
-"name":"五号阿辉资源",
+"name":"五号阿辉资源yq",
 "type":3,
 "api":"csp_YQKan",
 "searchable":1,
@@ -68,8 +68,8 @@
 },
 
 {
-"key":"js_荐片",
-"name":"六号阿辉资源",
+"key":"jp",
+"name":"六号阿辉资源p",
 "type":3,
 "api":"https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/drpy2.min.js",
 "ext":"./jianpian.js",
@@ -80,8 +80,8 @@
 },
 
 {
-"key":"七味",
-"name":"七号阿辉资源",
+"key":"7w",
+"name":"七号阿辉资源7w",
 "type":3,
 "api":"csp_XBPQ",
 "filterable":1,
@@ -102,51 +102,9 @@
     {
       "name": "1号解析",
       "type": 0,
-      "url": "https://vip.lianfaka.com/vip/?url=",
-      "ext": {
-        "flag": [
-    "youku",
-    "优酷",
-    "优 酷",
-    "优酷视频",
-    "qq",
-    "腾讯",
-    "腾 讯",
-    "腾讯视频",
-    "iqiyi",
-    "qiyi",
-    "奇艺",
-    "爱奇艺",
-    "爱 奇 艺",
-    "m1905",
-    "xigua",
-    "letv",
-    "leshi",
-    "乐视",
-    "乐 视",
-    "sohu",
-    "搜狐",
-    "搜 狐",
-    "搜狐视频",
-    "tudou",
-    "pptv",
-    "mgtv",
-    "芒果",
-    "imgo",
-    "芒果TV",
-    "芒 果 T V",
-	"douyin",
-	"抖音",
-    "bilibili",
-	"bilibili1",
-    "哔 哩",
-    "哔 哩 哔 哩"
-        ],
-        "header": {
-          "User-Agent": "okhttp/4.1.0"
-        }
-      }
+      "url": "https://jx.xmflv.com/?url="
     },
+
     {
       "name": "2号解析",
       "type": 0,
@@ -155,7 +113,7 @@
     {
       "name": "3号解析",
       "type": 0,
-      "url": "https://jx.xmflv.com/?url="
+      "url": "https://vip.lianfaka.com/vip/?url="
     },
     {
       "name": "4号解析",
@@ -172,55 +130,24 @@
     {
       "name": "6号解析",
       "type": 0,
-      "url": "https://jx.xyflv.cc/?url="
-    },
-    {
-      "name": "7号解析",
-      "type": 0,
       "url": "https://jx.m3u8.tv/jiexi/?url="
     },
+
     {
-      "name": "8号解析",
-      "type": 0,
-      "url": "https://jx.xyflv.com/?url="
-    },
-    {
-      "name": "9号解析",
+      "name": "7号解析",
       "type": 0,
       "url": "https://jx.jsonplayer.com/player/?url="
     },
 
+
     {
-      "name": "10号解析",
+      "name": "8号解析",
       "type": 0,
-      "url": "https://www.yemu.xyz/?url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "iqiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "mgtv",
-          "芒果",
-          "letv",
-          "乐视",
-          "pptv",
-          "PPTV",
-          "sohu",
-          "bilibili",
-		  "bilibili1",
-          "哔哩哔哩",
-          "哔哩"
-        ]
-      }
+      "url": "https://www.yemu.xyz/?url="
     },
 
     {
-      "name": "11号解析",
+      "name": "9号解析",
       "type": 0,
       "url": "https://jx.xmflv.cc/?url="
     }
