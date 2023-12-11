@@ -36,7 +36,7 @@
 
     {
       "key": "csp_Nmys",
-      "name": "三号阿辉资源nm",
+      "name": "三号阿辉资源n",
       "type": 3,
       "api": "csp_Nmys",
 	  "searchable": 1,
@@ -47,7 +47,7 @@
 
   {
 "key":"jgg",
-"name":"四号阿辉资源gg",
+"name":"四号阿辉资源g",
 "type":3,
 "api":"csp_XBPQ",
 "playerType":1,
@@ -81,7 +81,7 @@
 
 {
 "key":"7w",
-"name":"七号阿辉资源7w",
+"name":"七号阿辉资源",
 "type":3,
 "api":"csp_XBPQ",
 "filterable":1,
