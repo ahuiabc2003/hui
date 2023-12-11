@@ -4,7 +4,7 @@
     {
       "name": "live",
       "type": 0,
-      "url": "./tvzb.txt",
+      "url": "https://xhdwc.tk/tvlive.txt",
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     }
@@ -88,7 +88,19 @@
 "quickSearch":1,
 "searchable":1,
 "ext":"./7w.json"
-}
+},
+
+    {
+      "key": "kuihui",
+      "name": "八号阿辉资源",
+      "type": 3,
+      "api": "csp_XBPQ",
+	  "playerType":2,
+      "filterable":1,
+	  "quickSearch":1,
+	  "searchable":1,
+      "ext": "./kuhui.json"
+    }
 
   ],
 
