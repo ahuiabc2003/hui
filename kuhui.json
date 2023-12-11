@@ -29,7 +29,7 @@
   "播放链接": "href=\"&&\"",
 
   "分类url": "/filter/{cateId}--------{catePg}---.html",
-  "分类": "电影$movie#电视剧$tv#综艺$variety#动漫$cartoon#纪录片$documentary#短剧$microfilm#娱乐$ent",
+  "分类": "电影$movie#电视剧$tv#综艺$variety#动漫$cartoon#纪录片$documentary#短剧$duanju#娱乐$ent",
   "筛选":{
     "movie":[
     {"key":"cateId","name":"电影类型","value":[
