@@ -1,0 +1,62 @@
+{
+  "主页url": "http://i.kuhui2.com:65508",
+  "数组": "huilboo---&&---huilboo",
+  "图片": "huilbtu-&&-huilbtu",
+  "标题": "huilbm-&&-huilbm",
+  "副标题": "huifbt---&&---huifbt",
+  "链接": "href=\"&&\"",
+
+  "搜索模式": "1",
+  "搜索url":"/so.html?wd={wd}",
+  "搜索数组": "huisoso---&&---huisoso",
+  "搜索标题": "title=\"&&\"",
+  "搜索副标题": "huisofbt---&&---huisofbt",
+  "搜索图片": "src=\"&&\"",
+  "搜索链接": "href=\"&&\"",
+
+  "导演": "huidy&&jshuidy",
+  "主演": "huizy&&jshuizy",
+  "简介": "hujq&&jshujq",
+  "影片年代": "huinf-&&-huinf",
+  "影片地区": "huidq---&&-huidq",
+  "影片类型": "huilx---&&---huilx",
+  "线路数组": "huidown&&</div>",
+  "线路标题": "huixlbt&&jshuixlbt",
+
+  "播放数组": "huibfsz&&</div>",
+  "播放列表": "bflb-&&-bflb",
+  "播放标题": ">&&</a>",
+  "播放链接": "href=\"&&\"",
+
+  "分类url": "/filter/{cateId}--------{catePg}---.html",
+  "分类": "电影$movie#电视剧$tv#综艺$variety#动漫$cartoon#纪录片$documentary#短剧$microfilm#娱乐$ent",
+  "筛选":{
+    "movie":[
+    {"key":"cateId","name":"电影类型","value":[
+    {"n":"全部","v":"movie"},
+    {"n":"动作片","v":"dongzuopian"},
+    {"n":"喜剧片","v":"xijupian"},
+	{"n":"爱情片","v":"aiqingpian"},
+    {"n":"科幻片","v":"kehuanpian"},
+	{"n":"恐怖片","v":"kongbupian"},
+    {"n":"剧情片","v":"juqingpian"},
+	{"n":"战争片","v":"zhanzhengpian"}
+    ]
+    }
+    ],
+    "tv":[
+    {"key":"cateId","name":"电视剧类型","value":[
+    {"n":"全部","v":"tv"},
+    {"n":"国产剧","v":"guochanju"},
+    {"n":"欧美剧","v":"oumeiju"},
+    {"n":"韩国剧","v":"hanguoju"},
+	{"n":"香港剧","v":"xianggangju"},
+    {"n":"台湾剧","v":"taiwanju"},
+    {"n":"日本剧","v":"ribenju"},
+	{"n":"海外剧","v":"haiwaiju"}
+    ]
+    }
+    ]
+
+    }
+}
