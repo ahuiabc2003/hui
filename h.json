@@ -22,17 +22,18 @@
       "ext": "./cc.js"
     },
 
-    {
-      "key": "ON",
-      "name": "二号阿辉视频资源o",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
+{
+"key":"短剧one",
+"name":"二号阿辉资源短剧",
+"type":3,
+"api": "csp_XBPQ",
+"searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 1,
-      "ext": "./on.json"
-    },
+
+"ext":"./duanju.json"
+},
 
     {
       "key": "csp_Nmys",
@@ -45,9 +46,42 @@
       "ext": "./nmys.json"
     },
 
+{
+"key":"csp_YQKan",
+"name":"四号阿辉资源yq",
+"type":3,
+"api":"csp_YQKan",
+"searchable":1,
+"quickSearch":1,
+"filterable":1
+},
+
+{
+"key":"jp",
+"name":"五号阿辉资源p",
+"type":3,
+"api":"https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/drpy2.min.js",
+"ext":"./jianpian.js",
+"playerType": 1,
+"searchable": 1,
+"quickSearch": 1,
+"filterable": 1
+},
+
+    {
+      "key": "csp_beijihu",
+      "name": "六号阿辉资源jf",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://www.kuin.one/api.php/app/"
+    },
+
   {
 "key":"jgg",
-"name":"四号阿辉资源g",
+"name":"七号阿辉资源g",
 "type":3,
 "api":"csp_XBPQ",
 "playerType":1,
@@ -58,30 +92,8 @@
 },
 
 {
-"key":"csp_YQKan",
-"name":"五号阿辉资源yq",
-"type":3,
-"api":"csp_YQKan",
-"searchable":1,
-"quickSearch":1,
-"filterable":1
-},
-
-{
-"key":"jp",
-"name":"六号阿辉资源p",
-"type":3,
-"api":"https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/drpy2.min.js",
-"ext":"./jianpian.js",
-"playerType": 1,
-"searchable": 1,
-"quickSearch": 1,
-"filterable": 1
-},
-
-{
 "key":"7w",
-"name":"七号阿辉资源",
+"name":"八号阿辉资源w",
 "type":3,
 "api":"csp_XBPQ",
 "filterable":1,
@@ -92,7 +104,7 @@
 
     {
       "key": "kuihui",
-      "name": "八号阿辉资源",
+      "name": "九号阿辉资源",
       "type": 3,
       "api": "csp_XBPQ",
 	  "playerType":2,
