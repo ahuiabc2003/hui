@@ -1,0 +1,23 @@
+{
+  "主页url": "https://duanju.one",
+  "数组": "module-item-pic&&loading\">",
+  "图片": "data-src=\"&&\"",
+  "标题": "title=\"&&\"",
+  "链接": "href=\"&&\"",
+
+  "搜索url":"/vodsearch/{wd}-------------.html",
+
+  "导演": "阿辉",
+  "主演": "AHUI",
+
+  "线路数组": "data-dropdown-value&&<small>",
+  "线路标题": "=\"&&\">",
+
+  "播放数组": "class=\"sort-item&&scroll-content",
+  "播放列表": "topLine&&</a>",
+  "播放标题": "<span>&&</span>",
+  "播放链接": "href=\"&&\"",
+
+    "分类":"抖剧$1#快剧$2#都市$3#穿越$26#逆袭$25#虐恋$27#重生$28#其他$32",
+    "分类url":"/vodshow/{cateId}--------{catePg}---.html"
+}
