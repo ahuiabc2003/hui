@@ -46,20 +46,9 @@
       "ext": "./nmys.json"
     },
 
-        {
-            "key": "js_nangua",
-            "name": "四号阿辉资源ng",
-            "type": 3,
-            "api": "./c/drpy2.min.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./nangua.js"
-        },
-
 {
 "key":"csp_YQKan",
-"name":"五号阿辉资源yq",
+"name":"四号阿辉资源yq",
 "type":3,
 "api":"csp_YQKan",
 "searchable":1,
@@ -69,7 +58,7 @@
 
         {
             "key": "hh",
-            "name": "六号阿辉资源hh",
+            "name": "五号阿辉资源hh",
             "type": 1,
             "api": "https://hhzyapi.com/api.php/provide/vod",
             "searchable": 1,
@@ -109,7 +98,7 @@
 
 {
 "key":"jp",
-"name":"七号阿辉资源p",
+"name":"六号阿辉资源p",
 "type":3,
 "api":"https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/drpy2.min.js",
 "ext":"./jianpian.js",
@@ -121,7 +110,7 @@
 
   {
 "key":"jgg",
-"name":"八号阿辉资源g",
+"name":"七号阿辉资源g",
 "type":3,
 "api":"csp_XBPQ",
 "playerType":1,
@@ -133,7 +122,7 @@
 
 {
 "key":"7w",
-"name":"九号阿辉资源w",
+"name":"八号阿辉资源w",
 "type":3,
 "api":"csp_XBPQ",
 "filterable":1,
@@ -144,7 +133,7 @@
 
     {
       "key": "kuihui",
-      "name": "十号阿辉资源",
+      "name": "九号阿辉资源",
       "type": 3,
       "api": "csp_XBPQ",
 	  "playerType":2,
