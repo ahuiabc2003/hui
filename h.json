@@ -46,9 +46,20 @@
       "ext": "./nmys.json"
     },
 
+        {
+            "key": "js_nangua",
+            "name": "四号阿辉资源ng",
+            "type": 3,
+            "api": "./c/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./nangua.js"
+        },
+
 {
 "key":"csp_YQKan",
-"name":"四号阿辉资源yq",
+"name":"五号阿辉资源yq",
 "type":3,
 "api":"csp_YQKan",
 "searchable":1,
@@ -56,9 +67,49 @@
 "filterable":1
 },
 
+        {
+            "key": "hh",
+            "name": "六号阿辉资源hh",
+            "type": 1,
+            "api": "https://hhzyapi.com/api.php/provide/vod",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "categories": [
+                "动作片",
+                "喜剧片",
+                "爱情片",
+                "科幻片",
+                "剧情片",
+				"恐怖片",
+                "战争片",
+                "悬疑片",
+                "犯罪片",
+                "奇幻片",
+				"动画片",
+                "记录片",
+                "灾难片",
+                "内地剧",
+                "香港剧",
+                "台湾剧",
+                "日剧",
+                "韩剧",
+                "欧美剧",
+                "马泰剧",
+                "大陆综艺",
+                "港台综艺",
+                "日韩综艺",
+                "欧美综艺",
+                "中国动漫",
+                "日本动漫",
+                "欧美动漫",
+				"短剧"
+            ]
+        },
+
 {
 "key":"jp",
-"name":"五号阿辉资源p",
+"name":"七号阿辉资源p",
 "type":3,
 "api":"https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/drpy2.min.js",
 "ext":"./jianpian.js",
@@ -68,20 +119,9 @@
 "filterable": 1
 },
 
-    {
-      "key": "csp_beijihu",
-      "name": "六号阿辉资源jf",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://www.kuin.one/api.php/app/"
-    },
-
   {
 "key":"jgg",
-"name":"七号阿辉资源g",
+"name":"八号阿辉资源g",
 "type":3,
 "api":"csp_XBPQ",
 "playerType":1,
@@ -93,7 +133,7 @@
 
 {
 "key":"7w",
-"name":"八号阿辉资源w",
+"name":"九号阿辉资源w",
 "type":3,
 "api":"csp_XBPQ",
 "filterable":1,
@@ -104,7 +144,7 @@
 
     {
       "key": "kuihui",
-      "name": "九号阿辉资源",
+      "name": "十号阿辉资源",
       "type": 3,
       "api": "csp_XBPQ",
 	  "playerType":2,
