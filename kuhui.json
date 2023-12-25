@@ -3,14 +3,14 @@
   "数组": "huilboo---&&---huilboo",
   "图片": "huilbtu-&&-huilbtu",
   "标题": "huilbm-&&-huilbm",
-  "副标题": "huifbt---&&---huifbt",
+  "副标题": "..",
   "链接": "href=\"&&\"",
 
   "搜索模式": "1",
   "搜索url":"/so.html?wd={wd}",
   "搜索数组": "huisoso---&&---huisoso",
   "搜索标题": "title=\"&&\"",
-  "搜索副标题": "huisofbt---&&---huisofbt",
+  "搜索副标题": "..",
   "搜索图片": "src=\"&&\"",
   "搜索链接": "href=\"&&\"",
 
@@ -29,7 +29,7 @@
   "播放链接": "href=\"&&\"",
 
   "分类url": "/filter/{cateId}--------{catePg}---.html",
-  "分类": "电影$movie#电视剧$tv#综艺$variety#动漫$cartoon#纪录片$documentary#短剧$duanju#娱乐$ent",
+  "分类": "热播$http://i.kuhui2.com:65508/index.php?#电影$movie#电视剧$tv#综艺$variety#动漫$cartoon#纪录片$documentary#短剧$duanju#娱乐$ent",
   "筛选":{
     "movie":[
     {"key":"cateId","name":"电影类型","value":[
