@@ -37,7 +37,7 @@
 
     {
       "key": "csp_Nmys",
-      "name": "三号阿辉资源n",
+      "name": "三号n阿辉资源",
       "type": 3,
       "api": "csp_Nmys",
 	  "searchable": 1,
@@ -48,7 +48,7 @@
 
 {
 "key":"csp_YQKan",
-"name":"四号阿辉资源yq",
+"name":"四号yq阿辉资源",
 "type":3,
 "api":"csp_YQKan",
 "searchable":1,
@@ -58,7 +58,7 @@
 
         {
             "key": "hh",
-            "name": "五号阿辉资源hh",
+            "name": "五号hh阿辉资源",
             "type": 1,
             "api": "https://hhzyapi.com/api.php/provide/vod",
             "searchable": 1,
@@ -98,7 +98,7 @@
 
 {
 "key":"jp",
-"name":"六号阿辉资源p",
+"name":"六号p阿辉资源",
 "type":3,
 "api":"https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/drpy2.min.js",
 "ext":"./jianpian.js",
@@ -108,9 +108,20 @@
 "filterable": 1
 },
 
+{
+"key":"nke",
+"name":"七号nk阿辉资源",
+"type":3,
+"api":"csp_XBPQ",
+"filterable":1,
+"quickSearch":1,
+"searchable":1,
+"ext":"./nke.json"
+},
+
   {
 "key":"jgg",
-"name":"七号阿辉资源g",
+"name":"八号g阿辉资源",
 "type":3,
 "api":"csp_XBPQ",
 "playerType":1,
@@ -122,7 +133,7 @@
 
 {
 "key":"7w",
-"name":"八号阿辉资源w",
+"name":"九号w阿辉资源",
 "type":3,
 "api":"csp_XBPQ",
 "filterable":1,
@@ -133,7 +144,7 @@
 
     {
       "key": "kuihui",
-      "name": "九号阿辉资源",
+      "name": "十号阿辉资源",
       "type": 3,
       "api": "csp_XBPQ",
 	  "playerType":2,
