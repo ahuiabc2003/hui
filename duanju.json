@@ -5,7 +5,7 @@
   "标题": "title=\"&&\"",
   "链接": "href=\"&&\"",
 
-  "搜索url":"/vodsearch/{wd}-------------.html",
+  "搜索url":"/vodsearch/-------------.html?wd={wd}",
 
   "导演": "阿辉",
   "主演": "AHUI",
@@ -13,8 +13,8 @@
   "线路数组": "data-dropdown-value&&<small>",
   "线路标题": "=\"&&\">",
 
-  "播放数组": "class=\"sort-item&&scroll-content",
-  "播放列表": "topLine&&</a>",
+  "播放数组": "class=\"sort-item&&class=\"scroll-content",
+  "播放列表": "<a&&</a>",
   "播放标题": "<span>&&</span>",
   "播放链接": "href=\"&&\"",
 
