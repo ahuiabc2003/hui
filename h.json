@@ -131,16 +131,47 @@
 "ext":"./jgg.json"
 },
 
-{
-"key":"7w",
-"name":"九号w阿辉资源",
-"type":3,
-"api":"csp_XBPQ",
-"filterable":1,
-"quickSearch":1,
-"searchable":1,
-"ext":"./7w.json"
-},
+        {
+            "key": "LSM3U8",
+            "name": "九号LS阿辉资源",
+            "type": 1,
+            "api": "https://leshizyapi.com/api.php/provide/vod/at/json/",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+			"categories": [
+			    "国产剧",
+				"欧美剧",
+                "香港剧",
+				"韩国剧",
+                "动作片",
+                "喜剧片",
+                "爱情片",
+                "科幻片",
+                "剧情片",
+				"恐怖片",
+                "战争片",
+                "悬疑片",
+                "犯罪片",
+                "奇幻片",
+				"动画片",
+                "记录片",
+                "灾难片",
+				"其他片",
+                "台湾剧",
+                "日剧",
+                "泰国剧",
+				"海外剧",
+				"短剧",
+                "大陆综艺",
+                "港台综艺",
+                "日韩综艺",
+                "欧美综艺",
+                "国产动漫",
+                "日本动漫",
+                "欧美动漫"
+            ]
+        },
 
     {
       "key": "kuihui",
