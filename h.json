@@ -133,7 +133,7 @@
 
         {
             "key": "LSM3U8",
-            "name": "九号LS阿辉资源",
+            "name": "九号ls阿辉资源",
             "type": 1,
             "api": "https://leshizyapi.com/api.php/provide/vod/at/json/",
             "searchable": 1,
