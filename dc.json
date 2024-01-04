@@ -1,5 +1,7 @@
 { "urls": 
 [
-{ "url": "https://raw.gitmirror.com/ahuiabc2003/hui/main/h.json", "name": "阿辉视频接口1" }
+{ "url": "https://ghproxy.com/https://raw.githubusercontent.com/ahuiabc2003/hui/main/h.json", "name": "阿辉视频订阅接口1" },
+{ "url": "https://ghproxy.com/https://raw.githubusercontent.com/ahuiabc2003/hui/main/h.json", "name": "阿辉视频订阅接口2" },
+{ "url": "https://ghproxy.com/https://raw.githubusercontent.com/ahuiabc2003/hui/main/h.json", "name": "阿辉视频订阅接口3" }
 ]
 }
