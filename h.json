@@ -10,9 +10,32 @@
     }
   ],
   "sites": [
+{
+"key":"nke",
+"name":"一号阿辉视频资源",
+"type":3,
+"api":"csp_XBPQ",
+"filterable":1,
+"quickSearch":1,
+"searchable":1,
+"ext":"./nke.json"
+},
+
+    {
+      "key": "cc",
+      "name": "二号阿辉视频资源",
+      "type": 3,
+      "api": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": "./cc.js"
+    },
+
         {
             "key": "LSM3U8",
-            "name": "一号阿辉视频资源",
+            "name": "三号ls阿辉资源",
             "type": 1,
             "api": "https://leshizyapi.com/api.php/provide/vod/at/json/",
             "searchable": 1,
@@ -52,21 +75,9 @@
             ]
         },
 
-    {
-      "key": "cc",
-      "name": "二号阿辉视频资源",
-      "type": 3,
-      "api": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": "./cc.js"
-    },
-
 {
 "key":"短剧one",
-"name":"三号阿辉资源短剧",
+"name":"四号阿辉资源短剧",
 "type":3,
 "api": "csp_XBPQ",
 "searchable": 1,
@@ -79,7 +90,7 @@
 
     {
       "key": "csp_Nmys",
-      "name": "四号n阿辉资源",
+      "name": "五号n阿辉资源",
       "type": 3,
       "api": "csp_Nmys",
 	  "searchable": 1,
@@ -90,7 +101,7 @@
 
 {
 "key":"csp_YQKan",
-"name":"五号yq阿辉资源",
+"name":"六号yq阿辉资源",
 "type":3,
 "api":"csp_YQKan",
 "searchable":1,
@@ -100,7 +111,7 @@
 
         {
             "key": "hh",
-            "name": "六号hh阿辉资源",
+            "name": "七号hh阿辉资源",
             "type": 1,
             "api": "https://hhzyapi.com/api.php/provide/vod",
             "searchable": 1,
@@ -140,7 +151,7 @@
 
 {
 "key":"jp",
-"name":"七号p阿辉资源",
+"name":"八号p阿辉资源",
 "type":3,
 "api":"https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/drpy2.min.js",
 "ext":"./jianpian.js",
@@ -148,17 +159,6 @@
 "searchable": 1,
 "quickSearch": 1,
 "filterable": 1
-},
-
-{
-"key":"nke",
-"name":"八号nk阿辉资源",
-"type":3,
-"api":"csp_XBPQ",
-"filterable":1,
-"quickSearch":1,
-"searchable":1,
-"ext":"./nke.json"
 },
 
   {
