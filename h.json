@@ -91,19 +91,9 @@
       "ext": "./nmys.json"
     },
 
-{
-"key":"csp_YQKan",
-"name":"六号yq阿辉资源",
-"type":3,
-"api":"csp_YQKan",
-"searchable":1,
-"quickSearch":1,
-"filterable":1
-},
-
         {
             "key": "hh",
-            "name": "七号hh阿辉资源",
+            "name": "六号hh阿辉资源",
             "type": 1,
             "api": "https://hhzyapi.com/api.php/provide/vod",
             "searchable": 1,
@@ -143,7 +133,7 @@
 
 {
 "key":"jp",
-"name":"八号p阿辉资源",
+"name":"七号p阿辉资源",
 "type":3,
 "api":"https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/drpy2.min.js",
 "ext":"./jianpian.js",
@@ -155,7 +145,7 @@
 
     {
       "key": "kuihui",
-      "name": "九号阿辉资源",
+      "name": "八号阿辉资源",
       "type": 3,
       "api": "csp_XBPQ",
 	  "playerType":2,
