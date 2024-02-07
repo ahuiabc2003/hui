@@ -136,7 +136,7 @@
 "name":"七号p阿辉资源",
 "type":3,
 "api":"https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/drpy2.min.js",
-"ext":"./jianpian.js",
+"ext":"./jp.js",
 "playerType": 1,
 "searchable": 1,
 "quickSearch": 1,
@@ -144,8 +144,19 @@
 },
 
     {
+      "key": "YQ",
+      "name": "八号y阿辉资源",
+      "type": 3,
+      "api": "csp_YQKan",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+	  "jar": "http://yydf.540734621.xyz/业余打发/yydf/txt/yydf.txt;md5;efa09f94a423a8066bccccb59ca545e7"
+    },
+
+    {
       "key": "kuihui",
-      "name": "八号阿辉资源",
+      "name": "九号阿辉资源",
       "type": 3,
       "api": "csp_XBPQ",
 	  "playerType":2,
