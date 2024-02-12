@@ -2,9 +2,21 @@
   "spider": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;09489575C43684DF5ECEC8E675A9E0BA",
 
   "sites": [
+    {
+      "key": "cc",
+      "name": "一号阿辉视频资源",
+      "type": 3,
+      "api": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": "./cc.js"
+    },
+
        {
             "key": "LSM3U8",
-            "name": "一号阿辉视频资源",
+            "name": "二号阿辉视频资源",
             "type": 1,
             "api": "https://leshizyapi.com/api.php/provide/vod/at/json/",
             "searchable": 1,
@@ -46,7 +58,7 @@
 
 {
 "key":"nke",
-"name":"二号阿辉视频资源",
+"name":"三号k阿辉资源",
 "type":3,
 "api":"csp_XBPQ",
 "filterable":1,
@@ -54,18 +66,6 @@
 "searchable":1,
 "ext":"./nke.json"
 },
-
-    {
-      "key": "cc",
-      "name": "三号c阿辉资源",
-      "type": 3,
-      "api": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": "./cc.js"
-    },
 
 {
 "key":"短剧one",
