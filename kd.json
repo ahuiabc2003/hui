@@ -1,0 +1,10 @@
+{ "urls": 
+[
+{ "url": "https://atomgit.com/ahuiabc/ht/raw/master/k.json", "name": "酷绘订阅接口1" },
+{ "url": "https://ghproxy.net/https://raw.githubusercontent.com/ahuiabc2003/hui/main/k.json", "name": "酷绘订阅接口2" },
+{ "url": "https://jihulab.com/ahuiabc/huic/-/raw/main/k.json", "name": "酷绘订阅接口3" },
+{ "url": "https://cdn05042023.gitlink.org.cn/api/v1/repos/ahuiabc/ht/raw/k.json", "name": "酷绘订阅接口4" },
+{ "url": "https://gh-proxy.com/https://raw.githubusercontent.com/ahuiabc2003/hui/main/k.json", "name": "酷绘订阅接口5" },
+{ "url": "https://raw.gitmirror.com/ahuiabc2003/hui/main/k.json", "name": "酷绘订阅接口6" }
+]
+}
