@@ -96,38 +96,32 @@ if (/getvddr/.test(purl)) {
 }
 `;
 
-// 网址发布页 https://ddys.site
-// 网址发布页 https://ddys.wiki
-var rule = {
-    title: 'ddys',
-
-    host: 'https://ddys.pro',
-    // host:'https://ddys.mov',
-    url: '/fyclass/page/fypage/',
-    searchUrl: '/?s=**&post_type=post',
-    searchable: 2,
-    quickSearch: 0,
-    filterable: 0,
-    headers: {
-        'User-Agent': 'MOBILE_UA',
+var rule={
+    title:'ddys',
+    host:'https://ddys.pro',
+    url:'/fyclass/page/fypage/',
+    searchUrl:'/?s=**&post_type=post',
+    searchable:2,
+    quickSearch:0,
+    filterable:0,
+    headers:{
+        'User-Agent':'MOBILE_UA',
     },
-    class_parse: '#primary-menu li.menu-item;a&&Text;a&&href;\.pro/(.*)',
-    cate_exclude: '站长|^其他$|关于|^电影$|^剧集$|^类型$',
-    play_parse: true,
-
-    lazy: lazy,
-    limit: 6,
-    推荐: '*',
-    double: true, 
-    一级: '.post-box-list&&article;a:eq(-1)&&Text;.post-box-image&&style;a:eq(0)&&Text;a:eq(-1)&&href',
-    二级: {
-        "title": ".post-title&&Text;.cat-links&&Text",
-        "img": ".doulist-item&&img&&data-cfsrc",
-        "desc": ".published&&Text",
-        "content": ".abstract&&Text",
-        "tabs": "js:TABS=['主线路','B线']",
-
-        "lists": lists
+    class_parse:'#primary-menu li.menu-item;a&&Text;a&&href;\.pro/(.*)',
+    cate_exclude:'站长|^其他$|关于|^电影$|^剧集$|^类型$',
+    play_parse:true,
+    lazy:lazy,
+    limit:6,
+    推荐:'*',
+    double:true, // 推荐内容是否双层定位
+    一级:'.post-box-list&&article;a:eq(-1)&&Text;.post-box-image&&style;a:eq(0)&&Text;a:eq(-1)&&href',
+    二级:{
+        "title":".post-title&&Text;.cat-links&&Text",
+        "img":".doulist-item&&img&&data-cfsrc",
+        "desc":".published&&Text",
+        "content":".abstract&&Text",
+        "tabs":"js:TABS=['主线路','无']",
+        "lists":lists
     },
-    搜索: '#main&&article;.post-title&&Text;;.published&&Text;a&&href'
+    搜索:'#main&&article;.post-title&&Text;;.published&&Text;a&&href'
 }
