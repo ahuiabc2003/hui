@@ -3,8 +3,8 @@
 [
 { "url": "https://cdn05042023.gitlink.org.cn/api/v1/repos/ahuiabc/ht/raw/h.json", "name": "阿辉订阅接口1" },
 { "url": "https://ghproxy.net/https://raw.githubusercontent.com/ahuiabc2003/hui/main/h.json", "name": "阿辉订阅接口2" },
-{ "url": "https://notabug.org/ahuiabc/hi/raw/master/h.json", "name": "阿辉视频订阅接口3" },
-{ "url": "https://hub.gitmirror.com/https://raw.githubusercontent.com/ahuiabc2003/hui/main/h.json", "name": "阿辉视频订阅接口4" },
+{ "url": "https://notabug.org/ahuiabc/hi/raw/master/h.json", "name": "阿辉订阅接口3" },
+{ "url": "https://hub.gitmirror.com/https://raw.githubusercontent.com/ahuiabc2003/hui/main/h.json", "name": "阿辉订阅接口4" },
 { "url": "https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/ahuiabc2003/hui/main/h.json", "name": "阿辉订阅接口5" },
 { "url": "https://gh-proxy.com/https://raw.githubusercontent.com/ahuiabc2003/hui/main/h.json", "name": "阿辉订阅接口6" }
 ]
