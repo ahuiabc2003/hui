@@ -1,0 +1,18 @@
+{
+    "filter": [
+        "公众号",
+        "神秘的哥哥们",
+		"饭太硬",
+		"免费分享",
+        "|",
+        "｜",
+        "防失联",
+        "关注",
+        "【",
+        "】",
+        "┃ "
+    ],
+    "prefix": "(辉影)",
+    "band": "辉影订阅接口",
+    "source": "https://ghproxy.net/https://raw.githubusercontent.com/ahuiabc2003/hui/main/h.json"
+}
