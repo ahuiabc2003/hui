@@ -1,5 +1,16 @@
 {
+    "force_refresh":0,
+    "source": "https://ghproxy.net/https://raw.githubusercontent.com/ahuiabc2003/hui/main/h.json",
+    "app_show_dialog": true,
+    "jar_show_dialog": true,
+    "app_require_password": false,
+    "jar_require_password": true,
+    "app_password": "hui",
+    "jar_password": "hui",
+    "app_message": "辉影为免费开源项目，仅供测试，请勿付费购买！\n播放时若出现广告 均为三方插入, 勿上当!",
+    "jar_message": "辉影",
     "filter": [
+	    "王二小放牛娃.xyz",
         "公众号",
         "神秘的哥哥们",
 		"饭太硬",
@@ -13,6 +24,8 @@
         "┃ "
     ],
     "prefix": "(辉影)",
-    "band": "辉影订阅",
-    "source": "https://ghproxy.net/https://raw.githubusercontent.com/ahuiabc2003/hui/main/h.json"
+    "prefix_wolong": "(辉影)",
+    "title": "(辉影)",
+    "picture": "",
+    "link": ""
 }
