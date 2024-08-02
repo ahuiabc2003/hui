@@ -97,9 +97,20 @@
       "ext": "https://cdn05042023.gitlink.org.cn/api/v1/repos/ahuiabc/ht/raw/ddys.js"
     },
 
+    {
+      "key": "bt2",
+      "name": "七号阿辉t资源",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext":"https://cdn05042023.gitlink.org.cn/api/v1/repos/ahuiabc/ht/raw/2bt.json"
+    },
+
       {
       "key": "heimuer",
-      "name": "七号阿辉hm资源",
+      "name": "八号阿辉hm资源",
       "type": 3,
       "api": "csp_XBPQ",
       "ext": "https://cdn05042023.gitlink.org.cn/api/v1/repos/ahuiabc/ht/raw/heimuer.json"
@@ -107,7 +118,7 @@
 
     {
       "key": "kuihui",
-      "name": "八号阿辉资源",
+      "name": "九号阿辉资源",
       "type": 3,
       "api": "csp_XBPQ",
 	  "playerType":2,
