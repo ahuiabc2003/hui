@@ -1,6 +1,6 @@
 {
   "spider": "https://cdn05042023.gitlink.org.cn/api/v1/repos/ahuiabc/ht/raw/xc06.txt;md5;29978B04B8AEAEDE94F91B23B35E3405",
-
+  "warningText": "阿辉视频欢迎您！",
   "sites": [
       {
       "key": "aaa",
@@ -117,8 +117,18 @@
     },
 
     {
+    "key":"nmys",
+    "name":"九号阿辉n资源",
+    "type":3,
+    "api":"csp_WexNmys",
+    "searchable":1,
+    "changeable":1,
+	"jar": "https://cdn05042023.gitlink.org.cn/api/v1/repos/ahuiabc/ht/raw/ou2.txt"
+    },
+
+    {
       "key": "kuihui",
-      "name": "九号阿辉资源",
+      "name": "十号阿辉资源",
       "type": 3,
       "api": "csp_XBPQ",
 	  "playerType":2,
@@ -226,7 +236,7 @@
   ],
 
 "ads":["iqiyi.hbuioo.com","vip.ffzyad.com","wan.51img1.com","https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd","mimg.0c1q0l.cn","www.googletagmanager.com","www.google-analytics.com","mc.usihnbcq.cn","mg.g1mm3d.cn","mscs.svaeuzh.cn","cnzz.hhttm.top","tp.vinuxhome.com","cnzz.mmstat.com","www.baihuillq.com","s23.cnzz.com","z3.cnzz.com","c.cnzz.com","stj.v1vo.top","z12.cnzz.com","img.mosflower.cn","tips.gamevvip.com","ehwe.yhdtns.com","xdn.cqqc3.com","www.jixunkyy.cn","sp.chemacid.cn","hm.baidu.com","s9.cnzz.com","z6.cnzz.com","um.cavuc.com","mav.mavuz.com","wofwk.aoidf3.com","z5.cnzz.com","xc.hubeijieshikj.cn","tj.tianwenhu.com","xg.gars57.cn","k.jinxiuzhilv.com","cdn.bootcss.com","ppl.xunzhuo123.com","xomk.jiangjunmh.top","img.xunzhuo123.com","z1.cnzz.com","s13.cnzz.com","xg.huataisangao.cn","z7.cnzz.com","xg.huataisangao.cn","z2.cnzz.com","s96.cnzz.com","q11.cnzz.com","thy.dacedsfa.cn","xg.whsbpw.cn","s19.cnzz.com","z8.cnzz.com","s4.cnzz.com","f5w.as12df.top","ae01.alicdn.com","www.92424.cn","k.wudejia.com","vivovip.mmszxc.top","qiu.xixiqiu.com","cdnjs.hnfenxun.com","cms.qdwght.com"],
-
+ "logo": "https://cdn05042023.gitlink.org.cn/api/v1/repos/ahuiabc/ht/raw/logo.png",
   "lives": [
     {
       "name": "live",
