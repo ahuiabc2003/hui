@@ -29,7 +29,7 @@
       "key": "cc",
       "name": "三号阿辉c资源",
       "type": 3,
-      "api": "http://js.xn--z7x900a.com/js/lib/drpy2.min.js",
+      "api": "https://git.acwing.com/iduoduo/orange/-/raw/main/drpy_libs/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -93,24 +93,13 @@
       "name": "六号阿辉d资源",
       "type": 3,
       "playerType": "2",
-      "api": "http://js.xn--z7x900a.com/js/lib/drpy2.min.js",
+      "api": "https://git.acwing.com/iduoduo/orange/-/raw/main/drpy_libs/drpy2.min.js",
       "ext": "https://cdn05042023.gitlink.org.cn/api/v1/repos/ahuiabc/ht/raw/ddys.js"
-    },
-
-    {
-      "key": "bt2",
-      "name": "七号阿辉t资源",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext":"https://cdn05042023.gitlink.org.cn/api/v1/repos/ahuiabc/ht/raw/2bt.json"
     },
 
       {
       "key": "heimuer",
-      "name": "八号阿辉hm资源",
+      "name": "七号阿辉hm资源",
       "type": 3,
       "api": "csp_XBPQ",
       "ext": "https://cdn05042023.gitlink.org.cn/api/v1/repos/ahuiabc/ht/raw/heimuer.json"
@@ -118,7 +107,7 @@
 
     {
     "key":"nmys",
-    "name":"九号阿辉n资源",
+    "name":"八号阿辉n资源",
     "type":3,
     "api":"csp_WexNmys",
     "searchable":1,
@@ -128,7 +117,7 @@
 
     {
       "key": "kuihui",
-      "name": "十号阿辉资源",
+      "name": "九号阿辉资源",
       "type": 3,
       "api": "csp_XBPQ",
 	  "playerType":2,
