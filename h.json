@@ -100,8 +100,8 @@
       {
       "key": "heimuer",
       "name": "七号阿辉hm资源",
-    "playerType":2,
       "type": 3,
+	  "playerType":2,
       "api": "csp_XBPQ",
       "ext": "https://cdn05042023.gitlink.org.cn/api/v1/repos/ahuiabc/ht/raw/heimuer.json"
     },
@@ -116,9 +116,31 @@
 	"jar": "https://cdn05042023.gitlink.org.cn/api/v1/repos/ahuiabc/ht/raw/ou3.txt"
     },
 
+   {
+   "key":"nangua",
+   "name":"九号阿辉ng资源",
+   "type":3,
+   "api":"csp_WexNgys",
+   "searchable":1,
+   "quickSearch":1,
+   "filterable":0,
+   "jar": "https://cdn05042023.gitlink.org.cn/api/v1/repos/ahuiabc/ht/raw/ou3.txt"
+   },
+
+  {
+  "key":"xingya",
+  "name":"十号阿辉资源短剧",
+  "type":3,
+  "api":"csp_AppXY",
+  "searchable":1,
+  "quickSearch":0,
+  "filterable":0,
+  "jar": "https://cdn05042023.gitlink.org.cn/api/v1/repos/ahuiabc/ht/raw/du.txt"
+  },
+  
     {
       "key": "kuihui",
-      "name": "九号阿辉资源",
+      "name": "十一号阿辉资源",
       "type": 3,
       "api": "csp_XBPQ",
 	  "playerType":2,
