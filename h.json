@@ -100,6 +100,7 @@
       {
       "key": "heimuer",
       "name": "七号阿辉hm资源",
+    "playerType":2,
       "type": 3,
       "api": "csp_XBPQ",
       "ext": "https://cdn05042023.gitlink.org.cn/api/v1/repos/ahuiabc/ht/raw/heimuer.json"
