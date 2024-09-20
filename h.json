@@ -29,7 +29,7 @@
       "key": "liangzi",
       "name": "三号阿辉z资源",
       "type": 1,
-      "api": "https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8",
+      "api": "https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8/",
       "searchable": 1,
       "changeable": 1,
       "categories": [
@@ -81,7 +81,7 @@
             "key": "360M3U8",
             "name": "五号阿辉0资源",
             "type": 1,
-            "api": "https://360zy.com/api.php/provide/vod/from/360zy/at/json",
+            "api": "https://360zy.com/api.php/provide/vod/from/360zy/at/json/",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -118,12 +118,39 @@
         },
 
     {
-      "key": "ddys",
-      "name": "六号阿辉d资源",
-      "type": 3,
-      "playerType": "2",
-      "api": "https://git.acwing.com/iduoduo/orange/-/raw/main/drpy_libs/drpy2.min.js",
-      "ext": "https://cdn05042023.gitlink.org.cn/api/v1/repos/ahuiabc/ht/raw/ddys.js"
+      "key": "feifan",
+      "name": "六号阿辉f资源",
+      "type": 1,
+      "api": "http://api.ffzyapi.com/api.php/provide/vod/from/ffm3u8/",
+      "searchable": 1,
+      "changeable": 1,
+      "categories": [
+        "国产剧",
+        "韩国剧",
+        "欧美剧",
+        "日本剧",
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "剧情片",
+        "战争片",
+        "香港剧",
+        "记录片",
+        "台湾剧",
+        "海外剧",
+        "泰国剧",
+        "大陆综艺",
+        "港台综艺",
+        "日韩综艺",
+        "欧美综艺",
+        "国产动漫",
+        "日韩动漫",
+        "欧美动漫",
+        "港台动漫",
+        "海外动漫"
+      ]
     },
 
       {
