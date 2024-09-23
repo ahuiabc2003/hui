@@ -2,32 +2,40 @@
   "spider": "https://cdn05042023.gitlink.org.cn/api/v1/repos/ahuiabc/ht/raw/xc06.txt",
   "warningText": "阿辉视频欢迎您！",
   "sites": [
-      {
-      "key": "aaa",
-      "name": "一号阿辉视频资源",
-      "type": 3,
-      "api": "csp_XBPQ",
-	  "playerType": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://cdn05042023.gitlink.org.cn/api/v1/repos/ahuiabc/ht/raw/aaa.json"
+    {
+    "key":"nmys",
+    "name":"一号阿辉n资源",
+    "type":3,
+    "api":"csp_WexNmys",
+    "searchable":1,
+    "changeable":1,
+	"jar": "https://cdn05042023.gitlink.org.cn/api/v1/repos/ahuiabc/ht/raw/ou3.txt"
     },
 
-    {
-      "key": "idy",
-      "name": "二号阿辉i资源",
+   {
+   "key":"saohuoys",
+   "name":"二号阿辉sh资源",
+   "type":3,
+   "api":"csp_Wexsaohuo",
+   "searchable":1,
+   "changeable":1,
+   "jar": "https://cdn05042023.gitlink.org.cn/api/v1/repos/ahuiabc/ht/raw/ou3.txt"
+   },
+
+      {
+      "key": "sbb",
+      "name": "三号阿辉sb资源",
       "type": 3,
-      "api": "csp_XBPQ",
+      "api": "csp_XYQHiker",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext":"https://cdn05042023.gitlink.org.cn/api/v1/repos/ahuiabc/ht/raw/idy.json"
+      "ext": "https://cdn05042023.gitlink.org.cn/api/v1/repos/ahuiabc/ht/raw/sbb.json"
     },
 
     {
       "key": "liangzi",
-      "name": "三号阿辉z资源",
+      "name": "四号阿辉z资源",
       "type": 1,
       "api": "https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8/",
       "searchable": 1,
@@ -68,7 +76,7 @@
 
       {
       "key": "bpys",
-      "name": "四号阿辉hu资源",
+      "name": "五号阿辉hu资源",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -79,7 +87,7 @@
 
         {
             "key": "360M3U8",
-            "name": "五号阿辉0资源",
+            "name": "六号阿辉0资源",
             "type": 1,
             "api": "https://360zy.com/api.php/provide/vod/from/360zy/at/json/",
             "searchable": 1,
@@ -119,7 +127,7 @@
 
     {
       "key": "feifan",
-      "name": "六号阿辉f资源",
+      "name": "七号阿辉f资源",
       "type": 1,
       "api": "http://api.ffzyapi.com/api.php/provide/vod/from/ffm3u8/",
       "searchable": 1,
@@ -155,21 +163,11 @@
 
       {
       "key": "heimuer",
-      "name": "七号阿辉hm资源",
+      "name": "八号阿辉hm资源",
       "type": 3,
 	  "playerType":2,
       "api": "csp_XBPQ",
       "ext": "https://cdn05042023.gitlink.org.cn/api/v1/repos/ahuiabc/ht/raw/heimuer.json"
-    },
-
-    {
-    "key":"nmys",
-    "name":"八号阿辉n资源",
-    "type":3,
-    "api":"csp_WexNmys",
-    "searchable":1,
-    "changeable":1,
-	"jar": "https://cdn05042023.gitlink.org.cn/api/v1/repos/ahuiabc/ht/raw/ou3.txt"
     },
 
    {
