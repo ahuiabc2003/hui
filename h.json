@@ -173,12 +173,12 @@
    {
    "key":"nangua",
    "name":"九号阿辉ng资源",
-   "type":3,
-   "api":"csp_WexNgys",
-   "searchable":1,
-   "quickSearch":1,
-   "filterable":0,
-   "jar": "https://cdn05042023.gitlink.org.cn/api/v1/repos/ahuiabc/ht/raw/ou3.txt"
+  "type":3,
+  "api":"csp_Nangua",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1,
+   "jar": "https://cdn05042023.gitlink.org.cn/api/v1/repos/ahuiabc/ht/raw/ou4.txt"
    },
 
   {
@@ -191,10 +191,21 @@
   "filterable":0,
   "jar": "https://cdn05042023.gitlink.org.cn/api/v1/repos/ahuiabc/ht/raw/ou3.txt"
   },
-  
+
+ {
+ "key":"wencaidan",
+ "name":"十一号阿辉wc资源",
+ "type":3,
+ "api":"csp_Jpys",
+ "searchable":1,
+ "quickSearch":1,
+ "filterable":1,
+ "jar": "https://cdn05042023.gitlink.org.cn/api/v1/repos/ahuiabc/ht/raw/ou4.txt"
+ },
+
     {
       "key": "kuihui",
-      "name": "十一号阿辉资源",
+      "name": "十二号阿辉资源",
       "type": 3,
       "api": "csp_XBPQ",
 	  "playerType":2,
