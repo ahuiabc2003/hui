@@ -74,20 +74,9 @@
       ]
     },
 
-      {
-      "key": "bpys",
-      "name": "五号阿辉hu资源",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://notabug.org/ahuiabc/hi/raw/master/hu.json"
-    },
-
         {
             "key": "360M3U8",
-            "name": "六号阿辉0资源",
+            "name": "五号阿辉0资源",
             "type": 1,
             "api": "https://360zy.com/api.php/provide/vod/from/360zy/at/json/",
             "searchable": 1,
@@ -127,7 +116,7 @@
 
     {
       "key": "feifan",
-      "name": "七号阿辉f资源",
+      "name": "六号阿辉f资源",
       "type": 1,
       "api": "http://api.ffzyapi.com/api.php/provide/vod/from/ffm3u8/",
       "searchable": 1,
@@ -163,7 +152,7 @@
 
       {
       "key": "heimuer",
-      "name": "八号阿辉hm资源",
+      "name": "七号阿辉hm资源",
       "type": 3,
 	  "playerType":2,
       "api": "csp_XBPQ",
@@ -172,7 +161,7 @@
 
   {
   "key":"xingya",
-  "name":"九号阿辉资源短剧",
+  "name":"八号阿辉资源短剧",
   "type":3,
   "api":"csp_AppXY",
   "searchable":1,
@@ -183,7 +172,7 @@
 
  {
  "key":"wencaidan",
- "name":"十号阿辉wc资源",
+ "name":"九号阿辉wc资源",
  "type":3,
  "api":"csp_Jpys",
  "searchable":1,
@@ -194,7 +183,7 @@
 
     {
       "key": "kuihui",
-      "name": "十一号阿辉资源",
+      "name": "十号阿辉资源",
       "type": 3,
       "api": "csp_XBPQ",
 	  "playerType":2,
