@@ -2,15 +2,7 @@
   "spider": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ahuiabc/ht/raw/xc06.txt",
   "warningText": "阿辉视频欢迎您！",
   "sites": [
-    {
-    "key":"nmys",
-    "name":"一号阿辉n资源",
-    "type":3,
-    "api":"csp_WexNmys",
-    "searchable":1,
-    "changeable":1,
-	"jar": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ahuiabc/ht/raw/ou3.txt"
-    },
+  {"key":"nmys","name":"一号阿辉n资源","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://xn--tkh-mf3g9f.v.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app"},
 
    {
    "key":"saohuoys",
@@ -192,9 +184,13 @@
 "jar": "https://xn--tkh-mf3g9f.v.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app"
    },
 
+{"key":"xiaopingguo","name":"十一号阿辉pg资源","type":3,"api":"csp_Xpg","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://xn--tkh-mf3g9f.v.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app"},
+
+{"key":"reibo2","name":"十二号阿辉rb资源","type":3,"api":"csp_AppRB","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ahuiabc/ht/raw/du2.txt"},
+
     {
       "key": "kuihui",
-      "name": "十一号阿辉资源",
+      "name": "十三号阿辉资源",
       "type": 3,
       "api": "csp_XBPQ",
 	  "playerType":2,
