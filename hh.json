@@ -170,7 +170,7 @@
  "searchable":1,
  "quickSearch":1,
  "filterable":1,
- "jar": "https://xn--tkh-mf3g9f.v.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app"
+ "jar": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ahuiabc/ht/raw/bhtv2.txt"
  },
 
 {
@@ -184,9 +184,27 @@
 "jar": "https://xn--tkh-mf3g9f.v.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app"
    },
 
-{"key":"xiaopingguo","name":"十一号阿辉pg资源","type":3,"api":"csp_Xpg","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://xn--tkh-mf3g9f.v.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app"},
+{
+"key":"xiaopingguo",
+"name":"十一号阿辉pg资源",
+"type":3,
+"api":"csp_Xpg",
+"searchable":1,
+"quickSearch":1,
+"filterable":1,
+"jar": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ahuiabc/ht/raw/bhtv2.txt"
+},
 
-{"key":"reibo2","name":"十二号阿辉rb资源","type":3,"api":"csp_AppRB","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ahuiabc/ht/raw/du2.txt"},
+{
+"key":"reibo2",
+"name":"十二号阿辉rb资源",
+"type":3,
+"api":"csp_AppRB",
+"searchable":1,
+"quickSearch":1,
+"filterable":1,
+"jar": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ahuiabc/ht/raw/du2.txt"
+},
 
     {
       "key": "kuihui",
