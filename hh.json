@@ -173,16 +173,7 @@
  "jar": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ahuiabc/ht/raw/bhtv2.txt"
  },
 
-{
-"key":"nangua",
-"name":"十号阿辉ng资源",
-"type":3,
-"api":"csp_Nangua",
-"searchable":1,
-"quickSearch":1,
-"filterable":1,
-"jar": "https://xn--tkh-mf3g9f.v.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app"
-   },
+{"key":"jianpian","name":"十号阿辉j资源","type":3,"api":"csp_JianPian","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://api2.rinhome.com","jar": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ahuiabc/ht/raw/ou3.txt"},
 
 {
 "key":"xiaopingguo",
