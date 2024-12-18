@@ -1,8 +1,19 @@
 {
   "spider": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ahuiabc/ht/raw/xc06.txt",
-  "warningText": "阿辉视频欢迎您！",
+  "warningText": "阿辉欢迎您！",
   "sites": [
-  {"key":"nmys","name":"一号阿辉n资源","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://xn--tkh-mf3g9f.v.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app"},
+
+    {
+      "key": "nmys",
+      "name": "一号阿辉n资源",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+	  "jar": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ahuiabc/ht/raw/hutoubang.txt",
+      "ext": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ahuiabc/ht/raw/nongmin.json"
+    },
 
    {
    "key":"saohuoys",
@@ -198,8 +209,17 @@
 },
 
     {
+      "key": "csp_Gz360",
+      "name": "十三号阿辉gz资源",
+      "type": 3,
+      "api": "csp_Gz360",
+      "jar": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ahuiabc/ht/raw/PandaQ241107.txt",
+      "playerType": 2
+    },
+
+    {
       "key": "kuihui",
-      "name": "十三号阿辉资源",
+      "name": "十四号阿辉资源",
       "type": 3,
       "api": "csp_XBPQ",
 	  "playerType":2,
