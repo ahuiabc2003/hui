@@ -15,15 +15,15 @@
       "ext": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ahuiabc/ht/raw/nongmin.json"
     },
 
-      {
-      "key": "sbb",
-      "name": "二号阿辉sb资源",
+    {
+      "key": "mykuazi",
+      "name": "二号阿辉gz资源",
       "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
+      "api": "http://我不是.摸鱼儿.xyz/json/js/drpy.min.js",
       "filterable": 1,
-      "ext": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ahuiabc/ht/raw/sbb.json"
+      "order_num": 0,
+      "changeable": 0,
+      "ext": "https://gitee.com/XIYANkong123/536992286/raw/moyuer/guazi.js"
     },
 
     {
@@ -199,30 +199,20 @@
 },
 
     {
-      "key": "mykuazi",
-      "name": "十二号阿辉gz资源",
+      "key": "ycang",
+      "name": "十二号阿辉yc资源",
       "type": 3,
-      "api": "http://我不是.摸鱼儿.xyz/json/js/drpy.min.js",
-      "filterable": 1,
-      "order_num": 0,
-      "changeable": 0,
-      "ext": "https://gitee.com/XIYANkong123/536992286/raw/moyuer/guazi.js"
-    },
-
-    {
-      "key": "nmnmnm",
-      "name": "十三号阿辉n资源",
-      "type": 3,
-      "api": "csp_Nmys",
-      "jar": "http://我不是.摸鱼儿.xyz/by/jar/PizazzGY.php",
+      "api": "csp_YCyz",
+      "timeout": 15,
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+	  "jar": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ahuiabc/ht/raw/fty.txt",
+      "changeable": 1
     },
 
     {
       "key": "kuihui",
-      "name": "十四号阿辉资源",
+      "name": "十三号阿辉资源",
       "type": 3,
       "api": "csp_XBPQ",
 	  "playerType":2,
