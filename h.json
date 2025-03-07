@@ -19,11 +19,11 @@
       "key": "mykuazi",
       "name": "二号阿辉gz资源",
       "type": 3,
-      "api": "https://raw.gitmirror.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
+      "api": "csp_Gz360",
+      "searchable": 1,
+      "quickSearch": 1,
       "filterable": 1,
-      "order_num": 0,
-      "changeable": 0,
-      "ext": "https://gitee.com/XIYANkong123/536992286/raw/moyuer/guazi.js"
+	  "jar": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ahuiabc/ht/raw/dhys.txt"
     },
 
     {
@@ -210,8 +210,18 @@
     },
 
     {
+      "key": "hudie",
+      "name": "十二号阿辉hd资源",
+      "type": 3,
+      "api": "csp_Hudie",
+      "playerType": 2,
+      "ext": "eaHR0cHM6Ly9kLmRjbW92aWUudG9w",
+	  "jar": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ahuiabc/ht/raw/0117.txt"
+    },
+
+    {
       "key": "kuihui",
-      "name": "十二号阿辉资源",
+      "name": "十三号阿辉资源",
       "type": 3,
       "api": "csp_XBPQ",
 	  "playerType":2,
