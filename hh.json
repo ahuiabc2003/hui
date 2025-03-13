@@ -111,7 +111,7 @@
       "key": "feifan",
       "name": "五号阿辉f资源",
       "type": 1,
-      "api": "http://api.ffzyapi.com/api.php/provide/vod/from/ffm3u8/",
+      "api": "http://ffzy3.tv/api.php/provide/vod/from/ffm3u8/",
       "searchable": 1,
       "changeable": 1,
       "categories": [
@@ -143,18 +143,9 @@
       ]
     },
 
-      {
-      "key": "heimuer",
-      "name": "六号阿辉hm资源",
-      "type": 3,
-	  "playerType":2,
-      "api": "csp_XBPQ",
-      "ext": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ahuiabc/ht/raw/heimuer.json"
-    },
-
   {
   "key":"xingya",
-  "name":"七号阿辉资源短剧",
+  "name":"六号阿辉资源短剧",
   "type":3,
   "api":"csp_AppXY",
   "searchable":1,
@@ -165,7 +156,7 @@
 
  {
  "key":"wencaidan",
- "name":"八号阿辉wc资源",
+ "name":"七号阿辉wc资源",
  "type":3,
  "api":"csp_Jpys",
  "searchable":1,
@@ -176,7 +167,7 @@
 
     {
       "key": "jianpian",
-      "name": "九号阿辉j资源",
+      "name": "八号阿辉j资源",
       "type": 3,
       "api": "csp_JPJ",
       "playerType": 2,
@@ -188,7 +179,7 @@
 
 {
 "key":"reibo2",
-"name":"十号阿辉rb资源",
+"name":"九号阿辉rb资源",
 "type":3,
 "api":"csp_AppRB",
 "searchable":1,
@@ -199,7 +190,7 @@
 
     {
       "key": "ycang",
-      "name": "十一号阿辉yc资源",
+      "name": "十号阿辉yc资源",
       "type": 3,
       "api": "csp_YCyz",
       "timeout": 15,
@@ -211,7 +202,7 @@
 
     {
       "key": "hudie",
-      "name": "十二号阿辉hd资源",
+      "name": "十一号阿辉hd资源",
       "type": 3,
       "api": "csp_Hudie",
       "playerType": 2,
@@ -221,7 +212,7 @@
 
     {
       "key": "kuihui",
-      "name": "十三号阿辉资源",
+      "name": "十二号阿辉资源",
       "type": 3,
       "api": "csp_XBPQ",
 	  "playerType":2,
