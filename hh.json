@@ -165,21 +165,34 @@
  "jar": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ahuiabc/ht/raw/bhtv2.txt"
  },
 
+   {
+      "key": "ycang",
+      "name": "八号阿辉yc资源",
+      "type": 3,
+      "api": "csp_YCyzGuard",
+      "timeout": 15,
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+	  "jar": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ahuiabc/ht/raw/f0318.txt"
+    },
+
     {
       "key": "jianpian",
-      "name": "八号阿辉j资源",
+      "name": "九号阿辉j资源",
       "type": 3,
-      "api": "csp_JPJ",
+      "api": "csp_JPJGuard",
       "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1739805062395/f0218.txt"
+	  "jar": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ahuiabc/ht/raw/f0318.txt"
     },
 
 {
 "key":"reibo2",
-"name":"九号阿辉rb资源",
+"name":"十号阿辉rb资源",
 "type":3,
 "api":"csp_AppRB",
 "searchable":1,
@@ -190,7 +203,7 @@
 
     {
       "key": "hudie",
-      "name": "十号阿辉hd资源",
+      "name": "十一号阿辉hd资源",
       "type": 3,
       "api": "csp_Hudie",
       "playerType": 2,
@@ -200,7 +213,7 @@
 
     {
       "key": "kuihui",
-      "name": "十一号阿辉资源",
+      "name": "十二号阿辉资源",
       "type": 3,
       "api": "csp_XBPQ",
 	  "playerType":2,
