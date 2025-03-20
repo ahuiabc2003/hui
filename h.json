@@ -170,9 +170,6 @@
       "name": "八号阿辉j资源",
       "type": 3,
       "api": "csp_JPJ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable":1,
 	  "jar": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ahuiabc/ht/raw/f0218.txt"
     },
 
