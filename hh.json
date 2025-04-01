@@ -137,20 +137,9 @@
       ]
     },
 
- {
- "key":"wencaidan",
- "name":"八号阿辉wc资源",
- "type":3,
- "api":"csp_Jpys",
- "searchable":1,
- "quickSearch":1,
- "filterable":1,
- "jar": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ahuiabc/ht/raw/bhtv2.txt"
- },
-
   {
   "key":"xingya",
-  "name":"九号阿辉短剧资源",
+  "name":"八号阿辉短剧资源",
   "type":3,
   "api":"csp_AppXY",
   "searchable":1,
@@ -161,7 +150,7 @@
 
     {
       "key": "kuihui",
-      "name": "十号阿辉资源",
+      "name": "九号阿辉资源",
       "type": 3,
       "api": "csp_XBPQ",
 	  "playerType":2,
