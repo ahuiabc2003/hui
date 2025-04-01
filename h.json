@@ -26,9 +26,44 @@
 	  "jar": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ahuiabc/ht/raw/dhys.txt"
     },
 
+    {
+      "key": "ttysdqjs",
+      "name": "三号阿辉tt资源",
+      "type": 3,
+      "api": "csp_TianTian",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+	  "jar": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ahuiabc/ht/raw/spider.txt",
+      "ext": {
+        "site": "aHR0cDovL3R0LnlzZHFqcy5jbg=="
+      }
+    },
+
+{
+"key":"reibo2",
+"name":"四号阿辉rb资源",
+"type":3,
+"api":"csp_AppRB",
+"searchable":1,
+"quickSearch":1,
+"filterable":1,
+"jar": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ahuiabc/ht/raw/du2.txt"
+},
+
+    {
+      "key": "hudie",
+      "name": "五号阿辉hd资源",
+      "type": 3,
+      "api": "csp_Hudie",
+      "playerType": 2,
+      "ext": "eaHR0cHM6Ly9kLmRjbW92aWUudG9w",
+	  "jar": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ahuiabc/ht/raw/0117.txt"
+    },
+
         {
             "key": "360M3U8",
-            "name": "四号阿辉0资源",
+            "name": "六号阿辉0资源",
             "type": 1,
             "api": "https://360zy.com/api.php/provide/vod/from/360zy/at/json/",
             "searchable": 1,
@@ -68,7 +103,7 @@
 
     {
       "key": "feifan",
-      "name": "五号阿辉f资源",
+      "name": "七号阿辉f资源",
       "type": 1,
       "api": "http://ffzy3.tv/api.php/provide/vod/from/ffm3u8/",
       "searchable": 1,
@@ -102,20 +137,9 @@
       ]
     },
 
-  {
-  "key":"xingya",
-  "name":"六号阿辉资源短剧",
-  "type":3,
-  "api":"csp_AppXY",
-  "searchable":1,
-  "quickSearch":0,
-  "filterable":0,
-  "jar": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ahuiabc/ht/raw/ou3.txt"
-  },
-
  {
  "key":"wencaidan",
- "name":"七号阿辉wc资源",
+ "name":"八号阿辉wc资源",
  "type":3,
  "api":"csp_Jpys",
  "searchable":1,
@@ -124,68 +148,20 @@
  "jar": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ahuiabc/ht/raw/bhtv2.txt"
  },
 
-{
-"key":"reibo2",
-"name":"八号阿辉rb资源",
-"type":3,
-"api":"csp_AppRB",
-"searchable":1,
-"quickSearch":1,
-"filterable":1,
-"jar": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ahuiabc/ht/raw/du2.txt"
-},
-
-    {
-      "key": "hudie",
-      "name": "九号阿辉hd资源",
-      "type": 3,
-      "api": "csp_Hudie",
-      "playerType": 2,
-      "ext": "eaHR0cHM6Ly9kLmRjbW92aWUudG9w",
-	  "jar": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ahuiabc/ht/raw/0117.txt"
-    },
-
-    {
-      "key": "rycjapi",
-      "name": "十号阿辉ry资源",
-      "type": 1,
-      "api": "https://cj.rycjapi.com/api.php/provide/vod/from/rym3u8/",
-      "searchable": 1,
-      "changeable": 1,
-      "categories": [
-        "国产剧",
-        "韩国剧",
-        "欧美剧",
-		"短剧",
-        "日本剧",
-        "动作片",
-        "喜剧片",
-        "爱情片",
-        "科幻片",
-        "恐怖片",
-        "剧情片",
-        "战争片",
-        "香港剧",
-        "记录片",
-		"动画电影",
-        "台湾剧",
-        "海外剧",
-        "泰国剧",
-        "大陆综艺",
-        "港台综艺",
-        "日韩综艺",
-        "欧美综艺",
-        "国产动漫",
-        "日韩动漫",
-        "欧美动漫",
-        "港台动漫",
-        "海外动漫"
-      ]
-    },
+  {
+  "key":"xingya",
+  "name":"九号阿辉短剧资源",
+  "type":3,
+  "api":"csp_AppXY",
+  "searchable":1,
+  "quickSearch":0,
+  "filterable":0,
+  "jar": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ahuiabc/ht/raw/ou3.txt"
+  },
 
     {
       "key": "kuihui",
-      "name": "十一号阿辉资源",
+      "name": "十号阿辉资源",
       "type": 3,
       "api": "csp_XBPQ",
 	  "playerType":2,
