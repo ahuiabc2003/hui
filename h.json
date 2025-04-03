@@ -27,8 +27,18 @@
     },
 
     {
+      "key": "hudie",
+      "name": "三号阿辉hd资源",
+      "type": 3,
+      "api": "csp_Hudie",
+      "playerType": 2,
+      "ext": "eaHR0cHM6Ly9kLmRjbW92aWUudG9w",
+	  "jar": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ahuiabc/ht/raw/0117.txt"
+    },
+
+    {
       "key": "ttysdqjs",
-      "name": "三号阿辉tt资源",
+      "name": "四号阿辉tt资源",
       "type": 3,
       "api": "csp_TianTian",
       "searchable": 1,
@@ -42,7 +52,7 @@
 
 {
 "key":"reibo2",
-"name":"四号阿辉rb资源",
+"name":"五号阿辉rb资源",
 "type":3,
 "api":"csp_AppRB",
 "searchable":1,
@@ -52,18 +62,18 @@
 },
 
     {
-      "key": "hudie",
-      "name": "五号阿辉hd资源",
+      "key": "chenluo",
+      "name": "六号阿辉cl资源",
       "type": 3,
-      "api": "csp_Hudie",
-      "playerType": 2,
-      "ext": "eaHR0cHM6Ly9kLmRjbW92aWUudG9w",
-	  "jar": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ahuiabc/ht/raw/0117.txt"
+      "api": "csp_Wetv",
+      "searchable": 1,
+      "quickSearch": 1,
+	  "jar": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ahuiabc/ht/raw/dhys.txt"
     },
 
         {
             "key": "360M3U8",
-            "name": "六号阿辉0资源",
+            "name": "七号阿辉0资源",
             "type": 1,
             "api": "https://360zy.com/api.php/provide/vod/from/360zy/at/json/",
             "searchable": 1,
@@ -103,7 +113,7 @@
 
     {
       "key": "feifan",
-      "name": "七号阿辉f资源",
+      "name": "八号阿辉f资源",
       "type": 1,
       "api": "http://ffzy3.tv/api.php/provide/vod/from/ffm3u8/",
       "searchable": 1,
@@ -139,7 +149,7 @@
 
   {
   "key":"xingya",
-  "name":"八号阿辉短剧资源",
+  "name":"九号阿辉短剧资源",
   "type":3,
   "api":"csp_AppXY",
   "searchable":1,
@@ -150,7 +160,7 @@
 
     {
       "key": "kuihui",
-      "name": "九号阿辉资源",
+      "name": "十号阿辉资源",
       "type": 3,
       "api": "csp_XBPQ",
 	  "playerType":2,
