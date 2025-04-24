@@ -115,7 +115,7 @@
       "key": "feifan",
       "name": "八号阿辉f资源",
       "type": 1,
-      "api": "http://ffzy3.tv/api.php/provide/vod/from/ffm3u8/",
+      "api": "http://api.ffzyapi.com/api.php/provide/vod/from/ffm3u8/",
       "searchable": 1,
       "changeable": 1,
       "categories": [
