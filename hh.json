@@ -40,40 +40,33 @@
       "key": "ttysdqjs",
       "name": "四号阿辉tt资源",
       "type": 3,
-      "api": "csp_TianTian",
+      "api": "csp_AppRJ",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-	  "jar": "http://i.kuhui2.com:65508/tb/spider.txt",
+      "filterable": 0,
+	  "jar": "http://i.kuhui2.com:65508/tb/spider2.txt",
       "ext": {
-        "site": "aHR0cDovL3R0LnlzZHFqcy5jbg=="
+        "url": "http://tt.ysdqjs.cn"
       }
     },
 
-{
-"key":"reibo2",
-"name":"五号阿辉rb资源",
-"type":3,
-"api":"csp_AppRB",
-"searchable":1,
-"quickSearch":1,
-"filterable":1,
-"jar": "http://i.kuhui2.com:65508/tb/du2.txt"
-},
-
     {
-      "key": "chenluo",
-      "name": "六号阿辉cl资源",
+      "key": "rebo",
+      "name": "五号阿辉rb资源",
       "type": 3,
-      "api": "csp_Wetv",
+      "api": "csp_AppRJ",
       "searchable": 1,
       "quickSearch": 1,
-	  "jar": "http://i.kuhui2.com:65508/tb/dhys.txt"
+      "filterable": 0,
+	  "jar": "http://i.kuhui2.com:65508/tb/spider2.txt",
+      "ext": {
+        "url": "http://v.rbotv.cn"
+      }
     },
 
         {
             "key": "360M3U8",
-            "name": "七号阿辉0资源",
+            "name": "六号阿辉0资源",
             "type": 1,
             "api": "https://360zy.com/api.php/provide/vod/from/360zy/at/json/",
             "searchable": 1,
@@ -113,7 +106,7 @@
 
     {
       "key": "feifan",
-      "name": "八号阿辉f资源",
+      "name": "七号阿辉f资源",
       "type": 1,
       "api": "http://api.ffzyapi.com/api.php/provide/vod/from/ffm3u8/",
       "searchable": 1,
@@ -149,7 +142,7 @@
 
   {
   "key":"xingya",
-  "name":"九号阿辉短剧资源",
+  "name":"八号阿辉短剧资源",
   "type":3,
   "api":"csp_AppXY",
   "searchable":1,
@@ -160,7 +153,7 @@
 
     {
       "key": "kuihui",
-      "name": "十号阿辉资源",
+      "name": "九号阿辉资源",
       "type": 3,
       "api": "csp_XBPQ",
 	  "playerType":2,
