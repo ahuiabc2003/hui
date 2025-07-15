@@ -20,10 +20,10 @@
       "name": "二号阿辉gz资源",
       "type": 3,
       "api": "csp_Gz360",
+      "jar": "http://我不是.摸鱼儿.com/by/jar/moyuer.php;md5;5723b4f097fbfb7956671d9b035151d9",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-	  "jar": "http://i.kuhui2.com:65508/tb/dhys.txt"
+      "filterable": 1
     },
 
     {
