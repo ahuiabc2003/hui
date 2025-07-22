@@ -154,7 +154,7 @@
 
         {
             "key": "jingpai",
-            "name": "九号阿辉资源",
+            "name": "九号阿辉jp资源",
             "type": 3,
             "api": "https://tv.youdu.fan:666/duhe/py/金牌影视.py",
             "searchable": 1,
