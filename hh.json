@@ -155,16 +155,15 @@
         {
             "key": "jingpai",
             "name": "九号阿辉jp资源",
-            "type": 3,
-            "api": "https://tv.youdu.fan:666/duhe/py/金牌影视.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "playerType": 2,
-            "ext": {
-                "site": "https://www.hkybqufgh.com,https://www.sizhengxt.com,https://0996zp.com,https://9zhoukj.com/,https://www.sizhengxt.com,https://www.tjrongze.com,https://www.jiabaide.cn,https://cqzuoer.com"
-            }
-        },
+      "type": 3,
+      "api": "http://ygbh.site/max/py/金牌影视.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "site": "https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn"
+      }
+    },
 
     {
       "key": "kuihui",
@@ -192,42 +191,6 @@
       "name": "1号解析",
       "type": 0,
       "url": "https://jx.jsonplayer.com/player/?url="
-    },
-
-    {
-      "name": "2号解析",
-      "type": 0,
-      "url": "https://jx.xmflv.com/?url="
-    },
-
-    {
-      "name": "3号解析",
-      "type": 0,
-      "url": "https://jx.777jiexi.com/player/?url="
-    },
-
-    {
-      "name": "4号解析",
-      "type": 0,
-      "url": "https://www.pouyun.com/?url="
-    },
-
-    {
-      "name": "5号解析",
-      "type": 0,
-      "url": "https://www.pangujiexi.com/pangu/?url="
-    },
-
-    {
-      "name": "6号解析",
-      "type": 0,
-      "url": "https://jx.m3u8.tv/jiexi/?url="
-    },
-
-    {
-      "name": "7号解析",
-      "type": 0,
-      "url": "https://www.yemu.xyz/?url="
     },
 
     {
