@@ -20,20 +20,10 @@
       "name": "二号阿辉gz资源",
       "type": 3,
       "api": "csp_Gz360",
-      "jar": "http://我不是.摸鱼儿.com/by/jar/moyuer.php;md5;5723b4f097fbfb7956671d9b035151d9",
+      "jar": "http://i.kuhui2.com:65508/tb/svip.txt",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },
-
-    {
-      "key": "hudie",
-      "name": "三号阿辉hd资源",
-      "type": 3,
-      "api": "csp_Hudie",
-      "playerType": 2,
-      "ext": "eaHR0cHM6Ly9kLmRjbW92aWUudG9w",
-	  "jar": "http://i.kuhui2.com:65508/tb/0117.txt"
     },
 
     {
@@ -144,7 +134,7 @@
         "key":"toule",
           "name":"八号阿辉短剧资源",
             "type": 3,
-            "api": "https://tv.youdu.fan:666/duhe/py/偷乐短剧.py",
+            "api": "http://ygbh.site/max/py/偷乐短剧.py",
             "searchable": 1,
             "changeable": 1,
             "quickSearch": 1,
