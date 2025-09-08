@@ -27,6 +27,43 @@
     },
 
     {
+      "key": "mozhuazy",
+      "name": "三号阿辉mz资源",
+      "type": 1,
+      "api": "https://mozhuazy.com/api.php/provide/vod/",
+      "searchable": 1,
+      "changeable": 1,
+      "categories": [
+        "国产剧",
+        "韩国剧",
+        "欧美剧",
+		"短剧",
+        "日本剧",
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "剧情片",
+        "战争片",
+        "香港剧",
+        "记录片",
+        "台湾剧",
+        "海外剧",
+        "泰国剧",
+        "大陆综艺",
+        "港台综艺",
+        "日韩综艺",
+        "欧美综艺",
+        "国产动漫",
+        "日韩动漫",
+        "欧美动漫",
+        "港台动漫",
+        "海外动漫"
+      ]
+    },
+
+    {
       "key": "ttysdqjs",
       "name": "四号阿辉tt资源",
       "type": 3,
@@ -131,16 +168,15 @@
     },
 
   {
-        "key":"toule",
+        "key":"xinya",
           "name":"八号阿辉短剧资源",
-            "type": 3,
-            "api": "http://ygbh.site/max/py/偷乐短剧.py",
-            "searchable": 1,
-            "changeable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "playerType": 2
-        },
+  "type":3,
+  "api":"csp_AppXY",
+  "searchable":1,
+  "quickSearch":0,
+  "filterable":0,
+  "jar": "http://i.kuhui2.com:65508/tb/svip.txt"
+  },
 
         {
             "key": "jingpai",
