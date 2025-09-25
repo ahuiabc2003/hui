@@ -64,17 +64,39 @@
     },
 
     {
-      "key": "ttysdqjs",
-      "name": "四号阿辉tt资源",
-      "type": 3,
-      "api": "csp_AppRJ",
+      "key": "dbzy",
+      "name": "四号阿辉db资源",
+      "type": 1,
+      "api": "https://caiji.dbzy5.com/api.php/provide/vod/from/dbm3u8/at/josn/",
       "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-	  "jar": "http://i.kuhui2.com:65508/tb/spider2.txt",
-      "ext": {
-        "url": "http://tt.ysdqjs.cn"
-      }
+      "changeable": 1,
+      "categories": [
+        "国产剧",
+        "韩剧",
+        "欧美剧",
+		"短剧大全",
+        "日本剧",
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "剧情片",
+        "战争片",
+		"纪录片",
+        "香港剧",
+        "记录片",
+        "台湾剧",
+        "海外剧",
+        "泰国剧",
+        "大陆综艺",
+        "港台综艺",
+        "日韩综艺",
+        "欧美综艺",
+        "国产动漫",
+        "日本动漫",
+        "欧美动漫"
+      ]
     },
 
     {
@@ -216,13 +238,13 @@
     {
       "name": "1号解析",
       "type": 0,
-      "url": "https://jx.jsonplayer.com/player/?url="
+      "url": "https://jx.jsonplafffffyer.cfom/player/?url="
     },
 
     {
       "name": "8号解析",
       "type": 0,
-      "url": "https://jx.xmflv.cc/?url="
+      "url": "https://jx.xmfffffflv.fcc/?url="
     }
   ],
 
