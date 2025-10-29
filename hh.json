@@ -27,18 +27,18 @@
     },
 
     {
-      "key": "mozhuazy",
-      "name": "三号阿辉mz资源",
+      "key": "jisuziyuan",
+      "name": "三号阿辉js资源",
       "type": 1,
-      "api": "https://mozhuazy.com/api.php/provide/vod/",
+      "api": "https://jszyapi.com/api.php/provide/vod/from/jsm3u8/at/json",
       "searchable": 1,
       "changeable": 1,
       "categories": [
-        "国产剧",
-        "韩国剧",
+        "内地剧",
+        "韩剧",
         "欧美剧",
 		"短剧",
-        "日本剧",
+        "日剧",
         "动作片",
         "喜剧片",
         "爱情片",
@@ -46,20 +46,22 @@
         "恐怖片",
         "剧情片",
         "战争片",
+		"动画片",
+		"灾难片",
+		"悬疑片",
+		"犯罪片",
         "香港剧",
         "记录片",
         "台湾剧",
-        "海外剧",
-        "泰国剧",
+        "马泰剧",
         "大陆综艺",
         "港台综艺",
         "日韩综艺",
         "欧美综艺",
-        "国产动漫",
-        "日韩动漫",
+        "中国动漫",
+        "日本动漫",
         "欧美动漫",
-        "港台动漫",
-        "海外动漫"
+		"体育赛事"
       ]
     },
 
@@ -189,20 +191,9 @@
       ]
     },
 
-  {
-        "key":"xinya",
-          "name":"八号阿辉短剧资源",
-  "type":3,
-  "api":"csp_AppXY",
-  "searchable":1,
-  "quickSearch":0,
-  "filterable":0,
-  "jar": "http://i.kuhui2.com:65508/tb/svip.txt"
-  },
-
         {
             "key": "jingpai",
-            "name": "九号阿辉jp资源",
+            "name": "八号阿辉jp资源",
       "type": 3,
       "api": "http://ygbh.site/max/py/金牌影视.py",
       "searchable": 1,
@@ -215,7 +206,7 @@
 
     {
       "key": "kuihui",
-      "name": "十号阿辉资源",
+      "name": "九号阿辉资源",
       "type": 3,
       "api": "csp_XBPQ",
 	  "playerType":2,
