@@ -4,15 +4,14 @@
   "sites": [
 
     {
-      "key": "nmys",
-      "name": "一号阿辉n资源",
+      "key": "nangua",
+      "name": "一号阿辉ng资源",
       "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-	  "jar": "http://i.kuhui2.com:65508/tb/hutoubang.txt",
-      "ext": "http://i.kuhui2.com:65508/tb/nongmin.json"
+      "jar": "http://i.kuhui2.com:65508/tb/dl.txt",
+      "api": "csp_NanGua",
+      "quickSearch": 0,
+      "playerType": 2,
+      "ext": "7lj763gg0939795i017ii486k512jkihhilg9g0h96j865740113"
     },
 
     {
@@ -27,8 +26,95 @@
     },
 
     {
+      "key": "rebo",
+      "name": "三号阿辉rb资源",
+      "type": 3,
+      "api": "csp_AppRJ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+	  "jar": "https://jihulab.com/mzzz1-group/ysc01/-/raw/main/bh06151.jar",
+      "ext": {
+        "url": "http://v.rbotv.cn"
+      }
+    },
+
+    {
+      "key": "jingpai",
+      "name": "五号阿辉bz资源",
+      "quickSearch": 0,
+      "type": 3,
+      "jar": "https://gitee.com/tianwikeji/jar/raw/master/xm.jar",
+      "api": "csp_AppMuou",
+      "ext": "ewogICJTaXRlVXJsIjogImh0dHBzOi8vbXVvdS53bGJicS54eXoiLAogICJFeHQiOiAiaXA5K1dadnQ5ODNzUzAwOGtyTktobno4Q2Fzb2d3QjlLYkp2U0FmNGJRZEg5aUlGVHE4Y0tGM3Y4RFBicnphUiIsCiAgIkluZm8iOiAiaHR0cHM6Ly9tdW91aHQuZ2d0dmIuY2MiCn0="
+    },
+
+    {
+      "key": "py_jieyingshi",
+      "name": "六号阿辉jys资源",
+      "type": 3,
+      "api": "http://i.kuhui2.com:65508/tb/jieyingshi.py",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "changeable": 0,
+	  "jar": "http://i.kuhui2.com:65508/tb/spider3.txt"
+    },
+
+    {
+      "key": "pingguo",
+      "name": "七号阿辉pg资源",
+      "type": 3,
+      "api": "csp_LiteApple",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+	  "jar": "http://i.kuhui2.com:65508/tb/svip.txt"
+    },
+
+        {
+            "key": "360M3U8",
+            "name": "八号阿辉0资源",
+            "type": 1,
+            "api": "https://360zyzz.com/api.php/provide/vod/from/360m3u8/at/json/",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+			"categories": [
+			    "国产剧",
+				"欧美剧",
+                "香港剧",
+				"韩国剧",
+                "动作片",
+                "喜剧片",
+                "爱情片",
+                "科幻片",
+                "剧情片",
+				"恐怖片",
+                "战争片",
+                "悬疑片",
+                "犯罪片",
+                "家庭篇",
+				"动画片",
+                "纪录片",
+                "灾难片",
+				"西部片",
+				"短片",
+                "台湾剧",
+                "泰国剧",
+                "大陆综艺",
+                "港台综艺",
+                "日韩综艺",
+                "欧美综艺",
+                "国产动漫",
+                "日韩动漫",
+                "欧美动漫"
+            ]
+        },
+
+    {
       "key": "moduzy",
-      "name": "三号阿辉md资源",
+      "name": "九号阿辉md资源",
       "type": 1,
       "api": "https://www.mdzyapi.com/api.php/provide/vod/",
       "searchable": 1,
@@ -70,7 +156,7 @@
 
     {
       "key": "dbzy",
-      "name": "四号阿辉db资源",
+      "name": "十号阿辉db资源",
       "type": 1,
       "api": "https://caiji.dbzy5.com/api.php/provide/vod/from/dbm3u8/at/josn/",
       "searchable": 1,
@@ -105,22 +191,8 @@
     },
 
     {
-      "key": "rebo",
-      "name": "五号阿辉rb资源",
-      "type": 3,
-      "api": "csp_AppRJ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-	  "jar": "https://jihulab.com/mzzz1-group/ysc01/-/raw/main/bh06151.jar",
-      "ext": {
-        "url": "http://v.rbotv.cn"
-      }
-    },
-
-    {
       "key": "ryzy",
-      "name": "六号阿辉ry资源",
+      "name": "十一号阿辉ry资源",
       "type": 1,
       "api": "https://cj.rycjapi.com/api.php/provide/vod/from/rym3u8/",
       "searchable": 1,
@@ -158,7 +230,7 @@
 
     {
       "key": "feifan",
-      "name": "七号阿辉f资源",
+      "name": "十二号阿辉f资源",
       "type": 1,
       "api": "http://api.ffzyapi.com/api.php/provide/vod/from/ffm3u8/",
       "searchable": 1,
@@ -193,30 +265,8 @@
     },
 
     {
-      "key": "jingpai",
-      "name": "八号阿辉bz资源",
-      "quickSearch": 0,
-      "type": 3,
-      "jar": "https://gitee.com/tianwikeji/jar/raw/master/xm.jar",
-      "api": "csp_AppMuou",
-      "ext": "ewogICJTaXRlVXJsIjogImh0dHBzOi8vbXVvdS53bGJicS54eXoiLAogICJFeHQiOiAiaXA5K1dadnQ5ODNzUzAwOGtyTktobno4Q2Fzb2d3QjlLYkp2U0FmNGJRZEg5aUlGVHE4Y0tGM3Y4RFBicnphUiIsCiAgIkluZm8iOiAiaHR0cHM6Ly9tdW91aHQuZ2d0dmIuY2MiCn0="
-    },
-
-    {
-      "key": "py_jieyingshi",
-      "name": "九号阿辉jys资源",
-      "type": 3,
-      "api": "http://i.kuhui2.com:65508/tb/jieyingshi.py",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
-      "changeable": 0,
-	  "jar": "http://i.kuhui2.com:65508/tb/spider3.txt"
-    },
-
-    {
       "key": "kuihui",
-      "name": "十号阿辉资源",
+      "name": "十三号阿辉资源",
       "type": 3,
       "api": "csp_XBPQ",
 	  "playerType":2,
