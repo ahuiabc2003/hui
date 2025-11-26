@@ -2,32 +2,20 @@
   "spider": "http://i.kuhui2.com:65508/tb/xc06.txt",
   "warningText": "阿辉欢迎您！",
   "sites": [
-
     {
-      "key": "nangua",
-      "name": "一号阿辉ng资源",
+      "key": "bttwoo",
+      "name": "bt阿辉资源",
       "type": 3,
-      "jar": "http://i.kuhui2.com:65508/tb/dl.txt",
-      "api": "csp_NanGua",
-      "quickSearch": 0,
-      "playerType": 2,
-      "ext": "7lj763gg0939795i017ii486k512jkihhilg9g0h96j865740113"
-    },
-
-    {
-      "key": "mykuazi",
-      "name": "二号阿辉gz资源",
-      "type": 3,
-      "api": "csp_Gz360",
-      "jar": "https://jihulab.com/mzzz1-group/ysc01/-/raw/main/bh06151.jar",
+      "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "ext":"http://i.kuhui2.com:65508/tb/2bt.json"
     },
 
     {
       "key": "rebo",
-      "name": "三号阿辉rb资源",
+      "name": "rb阿辉资源",
       "type": 3,
       "api": "csp_AppRJ",
       "searchable": 1,
@@ -40,28 +28,68 @@
     },
 
     {
-      "key": "soshuo",
-      "name": "四号阿辉ss资源",
+      "key": "langku",
+      "name": "lk阿辉资源",
+	  "jar": "http://i.kuhui2.com:65508/tb/spider4.txt",
       "type": 3,
-      "api": "csp_qiao2",
-      "jar": "http://tv.laohu.cool/lh250711.jar;md5;9ab53f593c034c2b80cdc9f4c785a6f3",
-      "playerType": 2,
-      "ext": "7lj763gg402i79425739i7jghj118797l4hj840gi18633331l4708g2h7145403549g44l8ii56i187681hkjj3hhgh1ih3l32j250lk1k786lj20j468hk3hli4l46gig4i3g7g2722328j0136h01i7g5183k22k7gg3i72hk81gl8k9839kl7i0707"
+      "api": "csp_AppRJ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": {
+        "url": "http://v.lkuys.cn"
+      }
     },
 
     {
-      "key": "jingpai",
-      "name": "五号阿辉bz资源",
-      "quickSearch": 0,
+      "key": "yizhan",
+      "name": "yz阿辉资源",
+	  "jar": "http://i.kuhui2.com:65508/tb/spider4.txt",
       "type": 3,
-      "jar": "https://gitee.com/tianwikeji/jar/raw/master/xm.jar",
-      "api": "csp_AppMuou",
-      "ext": "ewogICJTaXRlVXJsIjogImh0dHBzOi8vbXVvdS53bGJicS54eXoiLAogICJFeHQiOiAiaXA5K1dadnQ5ODNzUzAwOGtyTktobno4Q2Fzb2d3QjlLYkp2U0FmNGJRZEg5aUlGVHE4Y0tGM3Y4RFBicnphUiIsCiAgIkluZm8iOiAiaHR0cHM6Ly9tdW91aHQuZ2d0dmIuY2MiCn0="
+      "quickSearch": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "site": "https://dyyztvappapigoodgx.68.gy:12689/ciwk28vu38io8/apiurl.txt",
+        "dataKey": "dyyztvapiappyyds",
+        "dataIv": "dyyztvapiappyyds"
+      }
+    },
+
+    {
+      "key": "saohuo",
+      "name": "sh阿辉资源",
+	  "jar": "http://i.kuhui2.com:65508/tb/spider4.txt",
+      "type": 3,
+      "api": "csp_SaoHuo",
+      "playerType": 2,
+      "ext": "https://shdy5.us"
+    },
+
+    {
+      "key": "nangua",
+      "name": "ng阿辉资源",
+      "type": 3,
+      "jar": "http://i.kuhui2.com:65508/tb/dl.txt",
+      "api": "csp_NanGua",
+      "quickSearch": 0,
+      "playerType": 2,
+      "ext": "7lj763gg0939795i017ii486k512jkihhilg9g0h96j865740113"
+    },
+
+    {
+      "key": "mykuazi",
+      "name": "gz阿辉资源",
+	  "jar": "http://i.kuhui2.com:65508/tb/spider4.txt",
+      "type": 3,
+      "api": "csp_Gz360",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },
 
     {
       "key": "py_jieyingshi",
-      "name": "六号阿辉jys资源",
+      "name": "jys阿辉资源",
       "type": 3,
       "api": "http://i.kuhui2.com:65508/tb/jieyingshi.py",
       "searchable": 1,
@@ -73,13 +101,13 @@
 
     {
       "key": "pingguo",
-      "name": "七号阿辉pg资源",
+      "name": "pg阿辉资源",
+	  "jar": "http://i.kuhui2.com:65508/tb/spider4.txt",
       "type": 3,
       "api": "csp_LiteApple",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-	  "jar": "http://i.kuhui2.com:65508/tb/svip.txt"
+      "filterable": 1
     },
 
         {
@@ -275,8 +303,46 @@
     },
 
     {
+      "key": "liangzi",
+      "name": "十三号阿辉lz资源",
+      "type": 1,
+      "api": "https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8/",
+      "searchable": 1,
+      "changeable": 1,
+      "categories": [
+        "国产剧",
+        "韩国剧",
+		"香港剧",
+        "日本剧",
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "剧情片",
+        "战争片",
+        "台湾剧",
+        "欧美剧",
+        "记录片",
+        "海外剧",
+        "泰国剧",
+		"短剧",
+        "大陆综艺",
+        "港台综艺",
+        "日韩综艺",
+        "欧美综艺",
+		"国产动漫",
+        "日韩动漫",
+        "欧美动漫",
+        "港台动漫",
+        "海外动漫",
+        "体育"
+      ]
+    },
+
+    {
       "key": "kuihui",
-      "name": "十三号阿辉资源",
+      "name": "十五号阿辉资源",
       "type": 3,
       "api": "csp_XBPQ",
 	  "playerType":2,
