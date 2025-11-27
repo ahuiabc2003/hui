@@ -2,6 +2,18 @@
   "spider": "http://i.kuhui2.com:65508/tb/xc06.txt",
   "warningText": "阿辉欢迎您！",
   "sites": [
+
+    {
+      "key": "nangua",
+      "name": "ng阿辉资源",
+      "type": 3,
+      "jar": "http://i.kuhui2.com:65508/tb/dl.txt",
+      "api": "csp_NanGua",
+      "quickSearch": 0,
+      "playerType": 2,
+      "ext": "7lj763gg0939795i017ii486k512jkihhilg9g0h96j865740113"
+    },
+
       {
       "key": "rebo",
       "name": "rb阿辉资源",
@@ -30,7 +42,7 @@
     {
       "key": "langku",
       "name": "lk阿辉资源",
-	  "jar": "http://i.kuhui2.com:65508/tb/spider4.txt",
+	  "jar": "http://i.kuhui2.com:65508/tb/spider3.txt",
       "type": 3,
       "api": "csp_AppRJ",
       "searchable": 1,
@@ -44,7 +56,7 @@
     {
       "key": "yizhan",
       "name": "yz阿辉资源",
-	  "jar": "http://i.kuhui2.com:65508/tb/spider4.txt",
+	  "jar": "http://i.kuhui2.com:65508/tb/spider3.txt",
       "type": 3,
       "quickSearch": 1,
       "api": "csp_AppGet",
@@ -58,28 +70,19 @@
     {
       "key": "saohuo",
       "name": "sh阿辉资源",
-	  "jar": "http://i.kuhui2.com:65508/tb/spider4.txt",
+	  "jar": "http://i.kuhui2.com:65508/tb/spider3.txt",
       "type": 3,
       "api": "csp_SaoHuo",
       "playerType": 2,
       "ext": "https://shdy5.us"
     },
 
-    {
-      "key": "nangua2",
-      "name": "ng阿辉资源",
-      "type": 3,
-      "jar": "http://i.kuhui2.com:65508/tb/dl.txt",
-      "api": "csp_NanGua",
-      "quickSearch": 0,
-      "playerType": 2,
-      "ext": "7lj763gg0939795i017ii486k512jkihhilg9g0h96j865740113"
-    },
+
 
     {
       "key": "mykuazi",
       "name": "gz阿辉资源",
-	  "jar": "http://i.kuhui2.com:65508/tb/spider4.txt",
+	  "jar": "http://i.kuhui2.com:65508/tb/spider3.txt",
       "type": 3,
       "api": "csp_Gz360",
       "searchable": 1,
@@ -90,7 +93,7 @@
     {
       "key": "py_jieyingshi",
       "name": "jys阿辉资源",
-	  "jar": "http://i.kuhui2.com:65508/tb/spider4.txt",
+	  "jar": "http://i.kuhui2.com:65508/tb/spider3.txt",
       "type": 3,
       "api": "http://i.kuhui2.com:65508/tb/jieyingshi.py",
       "searchable": 1,
@@ -102,7 +105,7 @@
     {
       "key": "pingguo",
       "name": "pg阿辉资源",
-	  "jar": "http://i.kuhui2.com:65508/tb/spider4.txt",
+	  "jar": "http://i.kuhui2.com:65508/tb/spider3.txt",
       "type": 3,
       "api": "csp_LiteApple",
       "searchable": 1,
