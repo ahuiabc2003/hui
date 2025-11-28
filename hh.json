@@ -54,6 +54,14 @@
     },
 
     {
+      "key": "guazi2",
+      "name": "gz2阿辉资源",
+      "type": 3,
+      "jar": "https://img2.gelonghui.com/library/965c0-d47366c3-4293-4676-a72b-76969f775dc9.png;md5;965c0ecb144c99c35f39e4a036712a3a",
+      "api": "csp_Gz360"
+    },
+
+    {
       "key": "mykuazi",
       "name": "gz阿辉资源",
 	  "jar": "http://i.kuhui2.com:65508/tb/xs.txt",
