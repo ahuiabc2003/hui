@@ -2,6 +2,18 @@
   "spider": "http://i.kuhui2.com:65508/tb/xc06.txt",
   "warningText": "阿辉欢迎您！",
   "sites": [
+
+    {
+      "key": "nangua",
+      "name": "ng阿辉资源",
+      "type": 3,
+      "jar": "http://i.kuhui2.com:65508/tb/dl.txt",
+      "api": "csp_NanGua",
+      "quickSearch": 0,
+      "playerType": 2,
+      "ext": "7lj763gg0939795i017ii486k512jkihhilg9g0h96j865740113"
+    },
+
       {
       "key": "rebo",
       "name": "rb阿辉资源",
@@ -17,17 +29,6 @@
     },
 
     {
-      "key": "nangua",
-      "name": "ng阿辉资源",
-      "type": 3,
-      "jar": "http://i.kuhui2.com:65508/tb/dl.txt",
-      "api": "csp_NanGua",
-      "quickSearch": 0,
-      "playerType": 2,
-      "ext": "7lj763gg0939795i017ii486k512jkihhilg9g0h96j865740113"
-    },
-
-    {
       "key": "bttwoo",
       "name": "bt阿辉资源",
       "type": 3,
@@ -39,16 +40,14 @@
     },
 
     {
-      "key": "langku",
-      "name": "lk阿辉资源",
-	  "jar": "http://i.kuhui2.com:65508/tb/xs.txt",
+      "key": "qilin",
+      "name": "ql阿辉资源",
+	  "jar": "http://i.kuhui2.com:65508/tb/spider5.txt",
       "type": 3,
-      "api": "csp_AppRJ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
+      "api": "csp_AppFox",
       "ext": {
-        "url": "http://v.lkuys.cn"
+        "host": "https://www.70yyw.cc",
+        "ver": 2
       }
     },
 
@@ -69,6 +68,18 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
+    },
+
+    {
+      "key": "py_jieyingshi",
+      "name": "jys阿辉资源",
+	  "jar": "http://i.kuhui2.com:65508/tb/spider5.txt",
+      "type": 3,
+      "api": "http://i.kuhui2.com:65508/tb/jieyingshi.py",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "changeable": 0
     },
 
     {
