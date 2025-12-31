@@ -42,7 +42,7 @@
     {
       "key": "qilin",
       "name": "ql阿辉资源",
-	  "jar": "http://i.kuhui2.com:65508/tb/spider5.txt",
+	  "jar": "http://i.kuhui2.com:65508/tb/spider4.txt",
       "type": 3,
       "api": "csp_AppFox",
       "ext": {
