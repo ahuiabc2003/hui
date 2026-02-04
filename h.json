@@ -1,5 +1,5 @@
 {
-  "spider": "http://i.kuhui2.com:65508/tb/xc06.txt",
+  "spider": "http://i.kuhui2.com:65508/tb/spider5.txt",
   "warningText": "阿辉欢迎您！",
   "sites": [
 
@@ -26,6 +26,16 @@
       "quickSearch": 0,
       "playerType": 2,
       "ext": "7lj763gg0939795i017ii486k512jkihhilg9g0h96j865740113"
+    },
+
+    {
+      "key": "1905",
+      "name": "1905阿辉资源",
+      "type": 3,
+      "api": "csp_Web1905",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0
     },
 
     {
@@ -61,7 +71,7 @@
     {
       "key": "py_jieyingshi",
       "name": "jys阿辉资源",
-	  "jar": "http://i.kuhui2.com:65508/tb/spider5.txt",
+
       "type": 3,
       "api": "http://i.kuhui2.com:65508/tb/jieyingshi.py",
       "searchable": 1,
@@ -282,14 +292,14 @@
     {
       "key": "kuihui",
       "name": "十五号阿辉资源",
+	  "jar": "http://i.kuhui2.com:65508/tb/daozhang.txt",
       "type": 3,
       "api": "csp_XBPQ",
 	  "playerType":2,
       "filterable":1,
 	  "quickSearch":1,
 	  "searchable":1,
-      "ext": "http://i.kuhui2.com:65508/tb/kuhui.json",
-	  "jar": "http://i.kuhui2.com:65508/tb/daozhang.txt"
+      "ext": "http://i.kuhui2.com:65508/tb/kuhui.json"
     }
 
   ],
