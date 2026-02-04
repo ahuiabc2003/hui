@@ -3,17 +3,6 @@
   "warningText": "阿辉欢迎您！",
   "sites": [
 
-    {
-      "key": "nangua",
-      "name": "ng阿辉资源",
-      "type": 3,
-      "jar": "http://i.kuhui2.com:65508/tb/dl.txt",
-      "api": "csp_NanGua",
-      "quickSearch": 0,
-      "playerType": 2,
-      "ext": "7lj763gg0939795i017ii486k512jkihhilg9g0h96j865740113"
-    },
-
       {
       "key": "rebo",
       "name": "rb阿辉资源",
@@ -26,6 +15,17 @@
       "ext": {
         "url": "http://v.rbotv.cn"
       }
+    },
+
+    {
+      "key": "nangua",
+      "name": "ng阿辉资源",
+      "type": 3,
+      "jar": "http://i.kuhui2.com:65508/tb/dl.txt",
+      "api": "csp_NanGua",
+      "quickSearch": 0,
+      "playerType": 2,
+      "ext": "7lj763gg0939795i017ii486k512jkihhilg9g0h96j865740113"
     },
 
     {
