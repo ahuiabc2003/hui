@@ -29,17 +29,6 @@
     },
 
     {
-      "key": "1905",
-      "name": "1905阿辉资源",
-	  "jar": "http://i.kuhui2.com:65508/tb/spider5.txt",
-      "type": 3,
-      "api": "csp_Web1905",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0
-    },
-
-    {
       "key": "bttwoo",
       "name": "bt阿辉资源",
       "type": 3,
@@ -67,18 +56,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },
-
-    {
-      "key": "py_jieyingshi",
-      "name": "jys阿辉资源",
-      "jar": "http://i.kuhui2.com:65508/tb/spider5.txt",
-      "type": 3,
-      "api": "http://i.kuhui2.com:65508/tb/jieyingshi.py",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
-      "changeable": 0
     },
 
     {
