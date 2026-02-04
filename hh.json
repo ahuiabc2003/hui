@@ -1,5 +1,5 @@
 {
-  "spider": "http://i.kuhui2.com:65508/tb/xs.txt",
+  "spider": "https://jihulab.com/mzzz1-group/ysc01/-/raw/main/bh06151.jar",
   "warningText": "阿辉欢迎您！",
   "sites": [
 
@@ -81,25 +81,84 @@
     },
 
     {
-            "key": "360M3U8",
-            "name": "八号阿辉0资源",
-            "type": 1,
-            "api": "https://360zyzz.com/api.php/provide/vod/from/360m3u8/at/json/"
-     },
-
-    {
       "key": "bfzy",
-      "name": "九号阿辉bf资源",
+      "name": "八号阿辉bf资源",
       "type": 1,
-      "api": "https://bfzyapi.com/api.php/provide/vod/"
+      "api": "https://bfzyapi.com/api.php/provide/vod/",
+	  "searchable": 1,
+      "changeable": 1,
+      "categories": [
+        "国产剧",
+        "韩国剧",
+        "欧美剧",
+		"短剧大全",
+        "日本剧",
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "剧情片",
+        "战争片",
+		"动画片",
+        "香港剧",
+        "纪录片",
+        "台湾剧",
+        "泰国剧",
+        "大陆综艺",
+        "港台综艺",
+        "日韩综艺",
+        "欧美综艺",
+        "国产动漫",
+        "日韩动漫",
+        "欧美动漫",
+		"港台动漫",
+		"体育赛事"
+      ]
     },
 
     {
       "key": "dyttzy",
-      "name": "十号阿辉tt资源",
+      "name": "九号阿辉tt资源",
       "type": 1,
-      "api": "http://caiji.dyttzyapi.com/api.php/provide/vod/from/dyttm3u8/at/json/"
+      "api": "http://caiji.dyttzyapi.com/api.php/provide/vod/from/dyttm3u8/at/json/",
+	  "searchable": 1,
+      "changeable": 1,
+      "categories": [
+        "国产剧",
+        "韩国剧",
+        "欧美剧",
+		"短剧",
+        "日本剧",
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "剧情片",
+        "战争片",
+		"动画片",
+        "香港剧",
+        "记录片",
+        "台湾剧",
+        "泰国剧",
+        "大陆综艺",
+        "港台综艺",
+        "日韩综艺",
+        "欧美综艺",
+        "国产动漫",
+        "日韩动漫",
+        "欧美动漫",
+		"港台动漫"
+      ]
     },
+
+    {
+            "key": "360M3U8",
+            "name": "十号阿辉0资源",
+            "type": 1,
+            "api": "https://360zyzz.com/api.php/provide/vod/from/360m3u8/at/json/"
+     },
 
     {
       "key": "feifan",
