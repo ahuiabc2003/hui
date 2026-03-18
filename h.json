@@ -149,7 +149,7 @@
       "key": "feifan",
       "name": "十一号阿辉f资源",
       "type": 1,
-      "api": "http://ffzy3.tv/api.php/provide/vod/from/ffm3u8/",
+      "api": "http://api.ffzyapi.com/api.php/provide/vod/from/ffm3u8/at/json/",
 	  "searchable": 1,
       "changeable": 1,
       "categories": [
@@ -185,7 +185,7 @@
       "key": "liangzi",
       "name": "十二号阿辉lz资源",
       "type": 1,
-      "api": "https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8/",
+      "api": "https://lzizy5.com/api.php/provide/vod/from/lzm3u8/at/json/",
 	  "searchable": 1,
       "changeable": 1,
       "categories": [
