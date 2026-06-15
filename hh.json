@@ -18,6 +18,15 @@
     },
 
     {
+      "key": "nm20260318",
+      "name": "nm阿辉资源",
+	  "jar": "http://i.kuhui2.com:65508/tb/xs.txt",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "ext": "http://i.kuhui2.com:65508/tb/nm20260318.js"
+    },
+
+    {
       "key": "nangua",
       "name": "ng阿辉资源",
       "type": 3,
@@ -28,27 +37,7 @@
       "ext": "7lj763gg0939795i017ii486k512jkihhilg9g0h96j865740113"
     },
 
-    {
-      "key": "bttwoo",
-      "name": "bt阿辉资源",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext":"http://i.kuhui2.com:65508/tb/2bt.json"
-    },
 
-    {
-      "key": "mykuazi",
-      "name": "gz阿辉资源",
-	  "jar": "http://i.kuhui2.com:65508/tb/xs.txt",
-      "type": 3,
-      "api": "csp_Gz360",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
 
     {
       "key": "pingguo",
@@ -59,17 +48,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },
-
-    {
-      "key": "jinpai",
-      "name": "jp阿辉资源",
-	  "jar": "http://i.kuhui2.com:65508/tb/xs.txt",
-      "type": 3,
-      "api": "http://tv.goos.gs:666/js/金牌.py",
-      "ext": {
-        "site": "https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn"
-      }
     },
 
     {
